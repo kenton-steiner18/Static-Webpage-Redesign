@@ -1,0 +1,132 @@
+---
+intro:
+  name: "Jim Davis"
+  credential: "Ph.D. MIT, 2000"
+  office:
+    - location: "491 Dreese Laboratories, Columbus, OH 43210"
+    - location: "2015 Neil Avenue, Columbus, OH 43210"
+  employer: "Ohio State University"
+  phone_numbers:
+    - office: "614-292-1553"
+    - lab: "614-292-5137"
+    - fax: "614-292-2911"
+  email: "jwdaviscse.ohio-state.edu"
+  website: "http://www.cse.ohio-state.edu/~jwdavis"
+directions:
+  - header: "Directions to My Office"
+  - north: "Take any major highway to I-270. Take I-270 to SR 315 south.
+   From SR 315 south, exit at Lane Avenue."
+  - south: "Take any major highway to I-71 north. Take I-71 north to SR 315
+   north. Exit at Lane Avenue."
+  - west: "Take any major highway to I-70 east. Take I-70 east to SR 315 north.
+   Exit at Lane Avenue."
+  - east: "Take any major highway to I-70 west. Take I-70 west to SR 315 north.
+   Exit at Lane Avenue."
+  - airport: "Take I-670 west to I-71 south. Take I-71 south to I-70 west.
+   Take I-70 west to SR 315 north. Exit at Lane Avenue."
+  - detailed_directions: "Take Lane Avenue (going east into OSU) over the
+   bridge until you reach Tuttle Park Place road. Take a right onto Tuttle
+   Park Place road and continue down (shortly) through the big 4-way
+   intersection (intersecting with Woody Hayes Dr.). Shortly after the
+   intersection you will see a large parking garage on your left (with an
+   immediate entrance into the garage from the road). The OSU Stadium will
+   be directly on your right. Enter this garage and take the ticket to park
+   your car (we will give you a pass later to exit the garage at no charge).
+   I am located in office 491 Dreese Labs, directly adjacent (behind) to
+   the parking garage. It is the tallest red brick building in the immediate
+   area. It also has a characteristic white spool on the very top of the
+    building."
+  - map:
+      - text: "Dreese Labs (building 279) and the parking garage (building
+       088) are shown on this helpful map."
+      - link: "http://www.osu.edu/map/building.php?building=279"
+appointments:
+  - text: "2013 - present: Full Professor, Dept. of Computer Science
+   and Engineering, OSU"
+    link: "http://www.cse.ohio-state.edu/"
+    dept: "Dept. of Computer Science and Engineering"
+    location: "OSU"
+  - text: "2005 - 2013: Associate Professor,"
+    link: "http://www.cse.ohio-state.edu/"
+    dept: "Dept. of Computer Science and Engineering"
+    location: "OSU"
+  - text: "2000 - 2005: Assistant Professor,"
+    link: "http://www.cse.ohio-state.edu/"
+    dept: "Dept. of Computer Science and Engineering"
+    location: "OSU"
+  - text: "2004 - present: Faculty Member,"
+    link: "http://ergonomics.osu.edu"
+    dept: "Institute for Ergonomics"
+    location: "OSU"
+  - text: "2000 - present: Faculty Member,"
+    link: "http://www.cog.ohio-state.edu/"
+    dept: "Center for Cognitive Science"
+    location: "OSU"
+  - text: "2000 - present: Affiliated Faculty,"
+    link: "http://www.accad.ohio-state.edu/"
+    dept: "Advanced Computing Center for the Arts & Design"
+    location: "OSU"
+research_interests:
+  - title: "Video Surveillance"
+  - img: "video_surveillance.jpg"
+  - text: "Prof. Jim Davis, Dept. of Computer Science and Engineering,
+   is developing advanced video surveillance systems that use computers
+    equipped with video cameras to not only detect the presence of people
+     and track them, but also to identify their activities. The research
+      has broad implications for Homeland Security as well as search and
+       rescue, border patrol, law enforcement and many other types of
+        military applications. The systems combine video cameras with machine
+         learning methods, enabling the computer to perform the kind of visual
+          recognition that seems effortless for humans. Davis' work in
+           investigating computer vision methods was recognized by the
+            National Science Foundation with the prestigious NSF Faculty
+             Early Career Development (CAREER) Program award. Support for
+              this research (past and present) has been provided by the National
+               Science Foundation, U.S. Air Force, Los Alamos National Lab, U.S.
+                Army Night Vision Laboratory, Intel, and Ohio Board of Regents."
+  - technical_areas:
+      - text: "Computer Vision"
+        link: "http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/vision.html"
+      - text: "Visual Perception"
+        link: "http://www.visionscience.com/"
+      - text: "Human-Computer Interaction"
+        link: "http://www1.acm.org/sigs/sigchi/"
+      - text: "Motion Capture"
+        link: "http://accad.osu.edu/research/mocap/"
+      - text: "Artificial Intelligence"
+        link: "http://www.aaai.org/"
+media_and_press:
+  - title: "TV/Video"
+    list:
+      - title: "NPR (WOSU)"
+        text: <Interview on "All Sides with Ann Fisher" (aired live 01/20/15)>
+      - title: "NPR (WOSU)"
+        text: <Interview on "All Sides with Ann Fisher" (aired live 07/03/14)>
+      - title: "iMix, Big10 TV Network"
+        text: <Smart Surveillance" (initially aired 7/28/09)>
+      - title: "10TV news (CBS)"
+        text: <Smart Technology Being Used at Ohio State" (Aired 07/17/09)>
+      - title: "OSU Video"
+        text: <Better Eyes" (released January 9, 2009)>
+      - title: "OSU Video"
+        text: <'Smart' Surveillance System May Tag Suspicious or Lost People"
+         (released 12/08)>
+      - title: "Frontline"
+        text: <Spying on the Home Front" (Aired 05/15/07)>
+      - title: "Fox-28/ABC-6 News"
+        text: <They're Watching You" (Aired 05/10/04)>
+      - title: "Fox-28/ABC-6 News"
+        text: "Interview on thermal technology (Aired 05/08/03, 05/09/03)"
+      - title: "NBC-4 News"
+        text: "(aired 05/09/03)"
+      - title: "CBS-10 News"
+        text: "(aired 05/04/03)"
+      - title: "OSU Video"
+        text: <Researcher developing video technology for surveillance: Cameras
+         being trained to `see' people and recognize their activities"
+          (released 04/30/03)>
+  - title: "Radio"
+    list:
+  - title: "Print"
+    list:
+      
