@@ -1,24 +1,50 @@
 body {
-  background-color: #fbc547;
-  color: #333;
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
-  padding: 18vh 1rem;
+    background-color: #D3D3D3;
+}
+
+.header-above-nav {
+  background-color: white;
   text-align: center;
+  border: 5px solid gray;
+}
+.college-affiliation-image{
+  height: 88px;
+  width: 604px;
+  margin: 50px;
 }
 
-a {
-  color: rgba(#000, 0.7);
-
-  &:focus,
-  &:hover {
-    color: rgba(#000, 0.6);
-  }
+.csedepartment-image {
+  padding: 10px 0 px 10px;
+  height: 120px;
+  width: 160px;
 }
 
-.middleman-logo {
-  margin-bottom: 1rem;
-  width: 10rem;
+.nav-bar {
+    background-color: #C72323;
+}
+
+.nav-bar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.nav-bar ul li {
+    float: left;
+    
+}
+
+.nav-bar ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    border-right: 1px solid black;
+}
+
+.nav-bar ul li a:hover {
+    background-color: #A90808;
+    font-weight: bold;
 }
