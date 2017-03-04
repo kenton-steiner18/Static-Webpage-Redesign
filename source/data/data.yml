@@ -1,4 +1,5 @@
 ---
+#INTO - SUNNY PATEL
 intro:
   name: "Jim Davis"
   credential: "Ph.D. MIT, 2000"
@@ -122,9 +123,9 @@ media_and_press:
       - title: "CBS-10 News"
         text: "(aired 05/04/03)"
       - title: "OSU Video"
-        text: "Researcher developing video technology for surveillance: Cameras
-         being trained to `see' people and recognize their activities"
-          (released 04/30/03)>
+        text: "'Researcher developing video technology for surveillance: Cameras
+         being trained to `see' people and recognize their activities
+          (released 04/30/03)>'"
   - title: "Radio"
     list:
       -title: "NPR (WOSU)"
@@ -133,6 +134,265 @@ media_and_press:
       text: <Interview on "All Sides with Ann Fisher" (aired live 07/03/14)>
       -title: "AAAS Science Update"
       text: "radio feature, 'Internet Video: A new technology could make watching video on the Internet less frustrating' (aired January 12, 2005)"
-  - title: "Print"
-    list:
-      
+  
+#PEOPLE TAB - JENNIFER ALARCON
+:currentStudents:
+ - Joe Barker
+ - Manjari Akella
+ - Ryan Niemocienski
+ - Dan Marchese
+ - Jeremy Ledonne
+ - Daniya Zamalieva
+
+:Alumni:
+  - name: Kyle Salberg
+    info: Undergraduate research assistant. Graduated June 2012.
+    now: Now at Garmin
+
+  - name: Michael Schoenberg
+    info: Undergraduate research assistant. Graduated June 2012.
+    now: Now at Microsoft
+
+  - name: Ronak Buch
+    info: Undergraduate research assistant. Graduated June 2012.
+    now: Now at UIUC
+
+  - name: Streib
+    info: 'Ph.D. Thesis: "Improved Graph-based Clustering with Applications in Computer Vision and Behavior Analysis", March 2012.'
+    now: Post-Doc with Davis)
+
+  - name: Karthik Sankaranarayanan
+    info: 'Ph.D. Thesis: "Multiple Instance Learning for Localization and Tracking of Persistent Targets", August 2011.'
+    now: Now at IBM India
+
+  - name: Ryan Feather
+    info: 'MS Thesis: "Tracking and Activity Analysis in Wide Area Aerial Surveillance Video", August 2011.'
+    now: null
+
+  - name: Matt Nedrich
+    info: 'MS Thesis: "Detecting Behavioral Zones in Local and Global Camera Views", June 2011.'
+    now: Now at Intel
+
+  - name: Mark Keck
+    info: 'Ph.D. Thesis: "Occlusion Recovery and Reasoning for 3D Surveillance", August 2009.'
+    now: Now at BAE
+
+  - name: Karl Salva
+    info: 'Undergraduate research assistant. Graduated March 2009. (Now at Numerica)'
+
+  - name: Ambrish Tyag
+    info: 'Ph.D. Thesis: "Layered Tracker Switching for Visual Surveillance", August 2008. (Now at STI - Omron Scientific Technologies)'
+
+  - name: Vinay Sharma
+    info: 'Ph.D. Thesis: "Simultaneous Object Detection and Segmentation using Top-down and Bottom-up Processing", November 2007.'
+    now: Now at Texas Instruments
+
+  - name: Hui Gao
+    info: 'Ph.D. Thesis: "Extracting Key Features for Analysis and Recognition in Computer Vision", February 2006.'
+    now: 'Now at Microsoft'
+
+  - name: Alex Morison
+    info: 'MS Thesis: "An Adaptive Focus-of-Attention Model for Video Surveillance and Monitoring", August 2006.'
+    now: Now at OSU/AFRL
+
+  - name: Vignesh Kannappan
+    info: 'MS Thesis: "Automatic Temporal Segmentation of Human Actions", June 2003.'
+    now: Now at Microsoft
+
+  - name: Stephanie Taylor
+    info: 'MS Thesis: "Computer Analysis and Recognition of Walking Movements", June 2002.'
+    now: null
+
+  - name: Robin Tan
+    info: 'Undergraduate Honors Thesis: "Human-Content Video Coding", March 2002.'
+    now: null
+
+
+#TEACHING TAB - Jennifer Alarcon
+:teaching:
+
+    - year: 2016-2017 TENATIVE
+      classes:
+        - class : CSE 5524
+          title : Computer Vision
+          season: Autumn
+
+        - class : CSE 5052
+          title : Artificial Intelligence for Non-Majors
+          season: Spring
+
+    - year: 2015-2016
+      classes:
+        - class : null
+          title : On Sabbatical
+          season: null
+
+    - year: 2014-2015
+      classes:
+        - class : CSE 5524
+          title : Computer Vision For HCI
+          season: Autumn
+
+        - class : CSE 5052
+          title : Into to Artificial Intelligence for Non-Majors
+          season: Spring
+
+    - year: 2013-2014
+      classes:
+        - class : CSE 5524
+          title : Computer Vision For HCI
+          season: Autumn
+
+        - class : CSE 5052
+          title : Into to Artificial Intelligence for Non-Majors
+          season: Spring
+
+    - year: 2012-2013
+      classes:
+        - class : CSE 5524
+          title : Computer Vision For Human-Computer Interaction
+          season: Autumn
+
+        - class : CSE 4521
+          title : Into to Artificial Intelligence for Non-Majors
+          season: Spring
+
+
+    - year: 2011-2012
+      classes:
+          - class : CSE 634
+            title : Computer Vision for Human-Computer Interaction
+            season: Autumn
+
+          - class : CSE 788
+            title : Computer Vision Seminar
+            season: Winter
+
+    - year: 2010-2011
+      classes:
+          - class : CSE 634
+            title : Computer Vision for Human-Computer Interaction
+            season: Autumn
+
+          - class : CSE 630
+            title : Artifical Intelligence
+            season: Winter
+
+    - year: 2009-2010
+      classes:
+          - class : CSE 634
+            title : Computer Vision for Human-Computer Interaction
+            season: Autumn
+
+          - class : CSE 788
+            title : Computer Vision Seminar
+            season: Winter
+
+    - year: 2008-2009
+      classes:
+          - class : CSE 634
+            title : Computer Vision for Human-Computer Interaction
+            season: Autumn
+
+          - class : CSE 630
+            title : Artifical Intelligence
+            season: Winter
+
+    - year: 2007 -2008
+      classes:
+          - class : null
+            title : ON Sabbatical
+            season: null
+
+    - year: 2006-2007
+      classes:
+          - class : CSE 634
+            title : Computer Vision for Human-Computer Interaction
+            season: Autumn
+
+          - class : CSE 630
+            title : Artifical Intelligence
+            season: Winter
+
+    - year: 2005-2006
+      classes:
+          - class : CSE 634
+            title : Computer Vision for Human-Computer Interaction
+            season: Autumn
+
+          - class : CSE 630
+            title : Artifical Intelligence
+            season: Winter
+
+          - class : CSE 788
+            title : Seminar on Advanced Video Surveillance
+            season: Winter
+
+    - year: 2004-2005
+      classes:
+          - class : CSE 694I
+            title : Computer Vision for Human-Computer Interaction
+            season: Autumn
+
+          - class : CSE 630
+            title : Artifical Intelligence
+            season: Winter
+
+          - class : CSE 788
+            title : Seminar on Advanced Video Surveillance
+            season: Winter
+
+    - year: 2003-2004
+      classes:
+          - class : CSE 694I
+            title : Computer Vision for Human-Computer Interaction
+            season: Autumn
+
+          - class : CSE 630
+            title : Artifical Intelligence
+            season: Winter
+
+          - class : CSE 788
+            title : Seminar on Advanced Video Surveillance
+            season: Winter
+
+    - year: 2002-2003
+      classes:
+          - class : CSE 630
+            title : Artificial Intelligence
+            season: Autum
+
+          - class : CSE 694I
+            title : Computer Vision and Pattern Recognition
+            season: Winter
+
+          - class : CSE 630
+            title : Artificial Intelligence
+            season: Spring
+
+    - year: 2001-2002
+      classes:
+          - class : CIS 788.04Z
+            title : Computer Vision for Human-Computer Interaction
+            season: Autum
+
+          - class : CSE 630
+            title : Artificial Intelligence
+            season: Spring
+
+
+    - year: 2000-2001
+      classes:
+          - class : CIS 788.04Y
+            title : Motion Understanding
+            season: Autum
+
+          - class : CSE 630
+            title : Artificial Intelligence
+            season: Spring
+
+          - class : CSE 731
+            title : Knowledge Systems
+            season: Spring
+
+...
