@@ -8,9 +8,14 @@
 
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.title || "Middleman" %></title>
-
     <%= stylesheet_link_tag "site" %>
+    <%= stylesheet_link_tag "header" %>
+    <%= stylesheet_link_tag "footer" %>
     <%= javascript_include_tag "site" %>
+    <meta charset="utf-8">
+    <meta name="description" content="James W. Davis: Professor at Ohio State"/>
+    <meta name="keywords" content="Ohio, OSU, Ohio State, MIT, Media, Jim Davis, James W. Davis, Motion, Vision, James Davis, Computer Vision, Perception, ohio state university, research, video surveillance, surveillance, thermal, video, infrared, activity recognition, human, action, activity, event, human actions, gesture, artificial intelligence, cctv, Ohio State Vision Lab, drums"/>
+    <title>James W. Davis</title>
   </head>
 
   <body class="<%= page_classes %>">

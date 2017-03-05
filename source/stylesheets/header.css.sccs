@@ -1,0 +1,200 @@
+
+/* --------
+Stylings for the Top Navigation Bar
+*/
+
+/* Set the container for the links */
+#osu_navbar .container {
+  width:960px; 
+  margin: 0 auto;
+} 
+
+#osu_navbar {
+  clear:both; 
+  margin:0; padding:0; 
+  background: #eaeaea url(/images/bg-navbar_red.jpg) left bottom repeat-x; overflow:hidden;
+  font-family:'proximanova','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:13px;
+  line-height:1.5; 
+  font-weight:normal;
+}
+
+
+/* University tag in the top left */
+#osu_navbar p {
+  margin:0; 
+  padding:0;
+}
+
+#osu_navbar .univ_info {
+  float:left; 
+  padding: 1em 0;
+}
+
+#osu_navbar .univ_name a {
+  height:16px; 
+  width:80px; 
+  display:block; 
+  text-indent:-9999px; 
+  background: url(/images/osu_name.png) 0 0 no-repeat; 
+}
+
+
+/* Links displayed in the top right */
+#osu_navbar .univ_links {
+  float:right; 
+  clear:none; padding: 1em 0 0; 
+  margin-top:-2px;
+}
+
+#osu_navbar div.links {float:left;}
+
+#osu_navbar div.links ul {margin: 0px 5px 0px;}
+
+#osu_navbar div.links ul li {
+  list-style:none; 
+  float:left; 
+  margin-left:1em;
+}
+
+#osu_navbar div.links ul li a {
+  color:#333; 
+  text-decoration: none;
+}
+
+#osu_navbar div.links ul li a:hover {text-decoration: underline;}
+
+
+/* When the screen width gets 990px, switch to full width instead of fixed size */
+@media only screen and (max-width: 990px) {
+  #osu_navbar .container {
+      width:100%; 
+      margin:0 10px; 
+      min-width:300px;
+  } 
+
+  /* Make container full width */
+  #osu_navbar div.container .univ_name a {margin-left:0;}
+}
+
+/* At 600px, switch from words for links in the top right to images */
+@media only screen and (max-width: 600px) {
+    #osu_navbar div.links ul {margin-top:-2px;}
+
+    #osu_navbar div.links ul li {
+      list-style:none; 
+      float:left; 
+      margin-left:.5em;
+    }
+
+    #osu_navbar div.links ul li a {
+      height:23px; 
+      width:23px; 
+      display:block; 
+      overflow:hidden; 
+      text-indent:-999px;
+    }
+
+    /* Replace each link with a picture from the images folder */
+
+    
+    #osu_navbar div.links ul li a:hover {text-decoration: none;}
+
+    #osu_navbar div.links ul li a.help {background:url(/images/resp-help.png) 0 0 no-repeat;}
+
+    #osu_navbar div.links ul li a.buckeyelink {background:url(/images/resp-buckeyelink.png) 0 0 no-repeat;}
+
+    #osu_navbar div.links ul li a.map {background:url(/images/resp-map.png) 0 0 no-repeat;}
+
+    #osu_navbar div.links ul li a.findpeople {background:url(/images/resp-findpeople.png) 0 0 no-repeat;}
+
+    #osu_navbar div.links ul li a.webmail {background:url(/images/resp-webmail.png) 0 0 no-repeat;}
+
+    #osu_navbar div.links ul li a.cseportal {background:url(/images/resp-buckeyelink-network.png) 0 0 no-repeat;}
+
+    #osu_navbar div.links ul li a.search {background:url(/images/resp-search.png) 0 0 no-repeat;}
+}
+
+/*-----------------------------------------------*/
+/* Display the title of the webpage and the Ohio State image*/
+
+/* Website title and links to external sites */
+
+.page-header {
+  width:960px; margin: 0 auto;
+  border-bottom: 0px;
+  padding-bottom: 0px;
+  font-family: 'Montserrat';
+  font-weight: 100;
+  color: gray; 
+}
+
+.page-header .site-title {
+  font-size: 2em;
+  margin: 20px 10px 5px;
+}
+
+.page-header .site-subtitle {margin: 0px 10px 20px;}
+
+.page-header a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: inherit; 
+}
+
+.page-header a:hover {text-decoration: underline;}
+
+/*--------------------------------*/
+/* Display the webpage navigation bar */
+
+/* At 990 px, switch display from fixed mode to fit the screen width*/
+@media only screen and (max-width: 990px) {
+   #main_navbar {width:100%; margin:0 10px; min-width:300px;} 
+
+   /* Make container full width */
+  #main_navbar .nav-bar a {margin-left:0;}
+}
+
+#main_navbar {
+  clear:both; 
+  margin:0 auto; 
+  padding:0; 
+  font-family:'proximanova', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size:13px; 
+  line-height:2.5; 
+  font-weight:normal;
+}
+
+.nav-bar {width:960px;}
+
+#main_navbar .nav-bar {
+  width:960px; 
+  margin: 0 auto;
+}
+
+#main_navbar .pages {float:left;}
+
+#main_navbar .pages ul {
+    list-style-type: none;
+    overflow: hidden;
+    background: #eaeaea url(/images/bg-navbar_red.jpg) left bottom repeat-x; overflow:hidden;
+}
+
+#main_navbar .pages ul li {
+    float: left;
+    margin: 8px;
+
+}
+
+#main_navbar .pages ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+#main_navbar .pages ul li a.show:hover {
+    background-color: gray;
+    text-decoration: underline;
+    font-weight: bold;
+}
