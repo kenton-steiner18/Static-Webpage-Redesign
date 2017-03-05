@@ -5,7 +5,7 @@ Stylings for the Top Navigation Bar
 
 /* Set the container for the links */
 #osu_navbar .container {
-  width:960px; 
+  width:68em; 
   margin: 0 auto;
 } 
 
@@ -13,7 +13,7 @@ Stylings for the Top Navigation Bar
   clear:both; 
   margin:0; padding:0; 
   background: #eaeaea url(/images/bg-navbar_red.jpg) left bottom repeat-x; overflow:hidden;
-  font-family:'proximanova','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:13px;
+  font-family:'proximanova','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:0.8125em;
   line-height:1.5; 
   font-weight:normal;
 }
@@ -31,10 +31,10 @@ Stylings for the Top Navigation Bar
 }
 
 #osu_navbar .univ_name a {
-  height:16px; 
-  width:80px; 
+  height:1.5em; 
+  width:6em; 
   display:block; 
-  text-indent:-9999px; 
+  text-indent: -9999em; 
   background: url(/images/osu_name.png) 0 0 no-repeat; 
 }
 
@@ -42,8 +42,9 @@ Stylings for the Top Navigation Bar
 /* Links displayed in the top right */
 #osu_navbar .univ_links {
   float:right; 
-  clear:none; padding: 1em 0 0; 
-  margin-top:-2px;
+  clear:none; 
+  padding: 1em 0 0; 
+  margin-top:-.05em;
 }
 
 #osu_navbar div.links {float:left;}
