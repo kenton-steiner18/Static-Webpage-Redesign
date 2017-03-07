@@ -5,7 +5,7 @@ Stylings for the Top Navigation Bar
 
 /* Set the container for the links */
 #osu_navbar .container {
-  width:68em; 
+  width:960px; 
   margin: 0 auto;
 } 
 
@@ -13,7 +13,7 @@ Stylings for the Top Navigation Bar
   clear:both; 
   margin:0; padding:0; 
   background: #eaeaea url(/images/bg-navbar_red.jpg) left bottom repeat-x; overflow:hidden;
-  font-family:'proximanova','Helvetica Neue', Helvetica, Arial, sans-serif; font-size:0.8125em;
+  font-size:0.8125em;
   line-height:1.5; 
   font-weight:normal;
 }
@@ -121,21 +121,27 @@ Stylings for the Top Navigation Bar
 /* Website title and links to external sites */
 
 .page-header {
-  width:68em; 
+  width:1250px; 
   margin: 0 auto;
   border-bottom: 0;
   padding-bottom: 0;
-  font-family: 'Montserrat';
+  padding-top:10px;
   font-weight: 100;
   color: gray; 
 }
-
-.page-header .site-title {
-  font-size: 2em;
-  margin: 0.4em 0em 0.4em;
+.site-title {
+  padding-top: 10px;
+  padding-bottom: 14px;
+}
+.site-title span {
+  font-size: 40px;
+  margin-bottom: 15px;
 }
 
-.page-header .site-subtitle {margin: 0.3em 0em 0.4em;}
+.site-subtitle span {
+  margin: 5px 0px 10px;
+  font-size:16px;
+}
 
 .page-header a {
   margin-right: 0.3em;
@@ -166,19 +172,20 @@ Stylings for the Top Navigation Bar
   font-weight:normal;
 }
 
-.nav-bar {width:68em;}
+.nav-bar {width:1010px;}
 
 #main_navbar .nav-bar {
-  width:68.75em; 
+  width: 1250px; 
   margin: 0 auto;
+  margin-top: 25px;
 }
 
-#main_navbar .pages {float:left;}
-
+/*#main_navbar .pages {float:right;}*/
 #main_navbar .pages ul {
     list-style-type: none;
     overflow: hidden;
-    background: #eaeaea url(/images/bg-navbar_red.jpg) left bottom repeat-x; overflow:hidden;
+    background: #eaeaea url(/images/bg-navbar_red.jpg) 
+    left bottom repeat-x; 
 }
 
 #main_navbar .pages ul li {
