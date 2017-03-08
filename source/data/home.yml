@@ -1,0 +1,97 @@
+--- 
+# CREATED BY: SUNNY PATEL 3/2
+# Home Page
+appointments: 
+  - 
+    dept: "Dept. of Computer Science and Engineering"
+    link: "http://www.cse.ohio-state.edu/"
+    location: OSU
+    text: "2013 - present: Full Professor, Dept. of Computer Science and Engineering, OSU"
+  - 
+    dept: "Dept. of Computer Science and Engineering"
+    link: "http://www.cse.ohio-state.edu/"
+    location: OSU
+    text: "2005 - 2013: Associate Professor,"
+  - 
+    dept: "Dept. of Computer Science and Engineering"
+    link: "http://www.cse.ohio-state.edu/"
+    location: OSU
+    text: "2000 - 2005: Assistant Professor,"
+  - 
+    dept: "Institute for Ergonomics"
+    link: "http://ergonomics.osu.edu"
+    location: OSU
+    text: "2004 - present: Faculty Member,"
+  - 
+    dept: "Center for Cognitive Science"
+    link: "http://www.cog.ohio-state.edu/"
+    location: OSU
+    text: "2000 - present: Faculty Member,"
+  - 
+    dept: "Advanced Computing Center for the Arts & Design"
+    link: "http://www.accad.ohio-state.edu/"
+    location: OSU
+    text: "2000 - present: Affiliated Faculty,"
+directions: 
+  - 
+    header: "Directions to My Office"
+  - 
+    north: "Take any major highway to I-270. Take I-270 to SR 315 south. From SR 315 south, exit at Lane Avenue."
+  - 
+    south: "Take any major highway to I-71 north. Take I-71 north to SR 315 north. Exit at Lane Avenue."
+  - 
+    west: "Take any major highway to I-70 east. Take I-70 east to SR 315 north. Exit at Lane Avenue."
+  - 
+    east: "Take any major highway to I-70 west. Take I-70 west to SR 315 north. Exit at Lane Avenue."
+  - 
+    airport: "Take I-670 west to I-71 south. Take I-71 south to I-70 west. Take I-70 west to SR 315 north. Exit at Lane Avenue."
+  - 
+    detailed_directions: "Take Lane Avenue (going east into OSU) over the bridge until you reach Tuttle Park Place road. Take a right onto Tuttle Park Place road and continue down (shortly) through the big 4-way intersection (intersecting with Woody Hayes Dr.). Shortly after the intersection you will see a large parking garage on your left (with an immediate entrance into the garage from the road). The OSU Stadium will be directly on your right. Enter this garage and take the ticket to park your car (we will give you a pass later to exit the garage at no charge). I am located in office 491 Dreese Labs, directly adjacent (behind) to the parking garage. It is the tallest red brick building in the immediate area. It also has a characteristic white spool on the very top of the building."
+  - 
+    map: 
+      - 
+        text: "Dreese Labs (building 279) and the parking garage (building 088) are shown on this helpful map."
+      - 
+        link: "http://www.osu.edu/map/building.php?building=279"
+intro: 
+  credential: "Ph.D. MIT, 2000"
+  email: jwdaviscse.ohio-state.edu
+  employer: "Ohio State University"
+  name: "Jim Davis"
+  office: 
+    - 
+      location: "491 Dreese Laboratories, Columbus, OH 43210"
+    - 
+      location: "2015 Neil Avenue, Columbus, OH 43210"
+  phone_numbers: 
+    - 
+      office: 614-292-1553
+    - 
+      lab: 614-292-5137
+    - 
+      fax: 614-292-2911
+  website: "http://www.cse.ohio-state.edu/~jwdavis"
+research_interests: 
+  - 
+    title: "Video Surveillance"
+  - 
+    img: video_surveillance.jpg
+  - 
+    text: "Prof. Jim Davis, Dept. of Computer Science and Engineering, is developing advanced video surveillance systems that use computers equipped with video cameras to not only detect the presence of people and track them, but also to identify their activities. The research has broad implications for Homeland Security as well as search and rescue, border patrol, law enforcement and many other types of military applications. The systems combine video cameras with machine learning methods, enabling the computer to perform the kind of visual recognition that seems effortless for humans. Davis' work in investigating computer vision methods was recognized by the National Science Foundation with the prestigious NSF Faculty Early Career Development (CAREER) Program award. Support for this research (past and present) has been provided by the National Science Foundation, U.S. Air Force, Los Alamos National Lab, U.S. Army Night Vision Laboratory, Intel, and Ohio Board of Regents."
+  - 
+    technical_areas: 
+      - 
+        link: "http://www.cs.cmu.edu/afs/cs/project/cil/ftp/html/vision.html"
+        text: "Computer Vision"
+      - 
+        link: "http://www.visionscience.com/"
+        text: "Visual Perception"
+      - 
+        link: "http://www1.acm.org/sigs/sigchi/"
+        text: "Human-Computer Interaction"
+      - 
+        link: "http://accad.osu.edu/research/mocap/"
+        text: "Motion Capture"
+      - 
+        link: "http://www.aaai.org/"
+        text: "Artificial Intelligence"

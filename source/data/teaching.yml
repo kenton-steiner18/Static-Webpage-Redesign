@@ -1,0 +1,204 @@
+--- 
+# CREATED BY: Jenn Alarcon
+# Teaching Page
+? !ruby/symbol teaching
+: 
+  - 
+    classes: 
+      - 
+        class: "CSE 5524"
+        season: Autumn
+        title: "Computer Vision"
+      - 
+        class: "CSE 5052"
+        season: Spring
+        title: "Artificial Intelligence for Non-Majors"
+    year: "2016-2017 TENATIVE"
+  - 
+    classes: 
+      - 
+        class: ~
+        season: ~
+        title: "On Sabbatical"
+    year: 2015-2016
+  - 
+    classes: 
+      - 
+        class: "CSE 5524"
+        season: Autumn
+        title: "Computer Vision For HCI"
+      - 
+        class: "CSE 5052"
+        season: Spring
+        title: "Into to Artificial Intelligence for Non-Majors"
+    year: 2014-2015
+  - 
+    classes: 
+      - 
+        class: "CSE 5524"
+        season: Autumn
+        title: "Computer Vision For HCI"
+      - 
+        class: "CSE 5052"
+        season: Spring
+        title: "Into to Artificial Intelligence for Non-Majors"
+    year: 2013-2014
+  - 
+    classes: 
+      - 
+        class: "CSE 5524"
+        season: Autumn
+        title: "Computer Vision For Human-Computer Interaction"
+      - 
+        class: "CSE 4521"
+        season: Spring
+        title: "Into to Artificial Intelligence for Non-Majors"
+    year: 2012-2013
+  - 
+    classes: 
+      - 
+        class: "CSE 634"
+        season: Autumn
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 788"
+        season: Winter
+        title: "Computer Vision Seminar"
+    year: 2011-2012
+  - 
+    classes: 
+      - 
+        class: "CSE 634"
+        season: Autumn
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 630"
+        season: Winter
+        title: "Artifical Intelligence"
+    year: 2010-2011
+  - 
+    classes: 
+      - 
+        class: "CSE 634"
+        season: Autumn
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 788"
+        season: Winter
+        title: "Computer Vision Seminar"
+    year: 2009-2010
+  - 
+    classes: 
+      - 
+        class: "CSE 634"
+        season: Autumn
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 630"
+        season: Winter
+        title: "Artifical Intelligence"
+    year: 2008-2009
+  - 
+    classes: 
+      - 
+        class: ~
+        season: ~
+        title: "ON Sabbatical"
+    year: "2007 -2008"
+  - 
+    classes: 
+      - 
+        class: "CSE 634"
+        season: Autumn
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 630"
+        season: Winter
+        title: "Artifical Intelligence"
+    year: 2006-2007
+  - 
+    classes: 
+      - 
+        class: "CSE 634"
+        season: Autumn
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 630"
+        season: Winter
+        title: "Artifical Intelligence"
+      - 
+        class: "CSE 788"
+        season: Winter
+        title: "Seminar on Advanced Video Surveillance"
+    year: 2005-2006
+  - 
+    classes: 
+      - 
+        class: "CSE 694I"
+        season: Autumn
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 630"
+        season: Winter
+        title: "Artifical Intelligence"
+      - 
+        class: "CSE 788"
+        season: Winter
+        title: "Seminar on Advanced Video Surveillance"
+    year: 2004-2005
+  - 
+    classes: 
+      - 
+        class: "CSE 694I"
+        season: Autumn
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 630"
+        season: Winter
+        title: "Artifical Intelligence"
+      - 
+        class: "CSE 788"
+        season: Winter
+        title: "Seminar on Advanced Video Surveillance"
+    year: 2003-2004
+  - 
+    classes: 
+      - 
+        class: "CSE 630"
+        season: Autum
+        title: "Artificial Intelligence"
+      - 
+        class: "CSE 694I"
+        season: Winter
+        title: "Computer Vision and Pattern Recognition"
+      - 
+        class: "CSE 630"
+        season: Spring
+        title: "Artificial Intelligence"
+    year: 2002-2003
+  - 
+    classes: 
+      - 
+        class: "CIS 788.04Z"
+        season: Autum
+        title: "Computer Vision for Human-Computer Interaction"
+      - 
+        class: "CSE 630"
+        season: Spring
+        title: "Artificial Intelligence"
+    year: 2001-2002
+  - 
+    classes: 
+      - 
+        class: "CIS 788.04Y"
+        season: Autum
+        title: "Motion Understanding"
+      - 
+        class: "CSE 630"
+        season: Spring
+        title: "Artificial Intelligence"
+      - 
+        class: "CSE 731"
+        season: Spring
+        title: "Knowledge Systems"
+    year: 2000-2001
