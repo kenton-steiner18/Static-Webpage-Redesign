@@ -1,11 +1,47 @@
 <!DOCTYPE html>
 <head>
 <title><%="James W. Davis"%></title>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-</head>
-<body>
-<%= partial "header"%>
-<body>
 
-<!--Add People Content -->
+-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-sca
+le=1">
+-<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'
+ type='text/css'>
+
+<link rel="stylesheet" type="text/css" href="people.css"></link>
+</head>
+
+-<body>
+-<%= partial "header"%>
+-<body>
+
+-<!--Add People Content -->
+
+<% require 'yaml' %>
+<% data = YAML::load_file(File.join(File.dirname(File.expand_path(__FILE__)), 'data/data.yml')) %>
+
+<div>
+	<h2> Current Students </h2>
+  	<ul>
+  		<!--Get data needed from yaml file -- >
+  		<% data[:currentStudents].each do |x| %>
+  			<li > <%= x%> </li>
+  		<% end %>
+    </ul> <!--Content-->
+
+
+    <h2> Alumni </h2>
+    <% data[:Alumni].each do |person| %>
+      <h3>  <%= person["name"] %> </h3>
+        <%= person["info"] %> <br/><br/>
+        <% if person["now"] != nil %>
+            <%= person["now"] %>
+        <%end%>
+    <% end %>
+
+
+
+</div>
+
+
+
+<div> <!--profile-->
