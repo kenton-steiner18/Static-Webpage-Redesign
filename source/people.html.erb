@@ -2,19 +2,8 @@
 <head>
 <title><%="James W. Davis"%></title>
 
--<meta name="viewport" content="width=device-width, initial-scale=1, maximum-sca
-le=1">
--<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'
- type='text/css'>
-
 <link rel="stylesheet" type="text/css" href="people.css"></link>
 </head>
-
--<body>
--<%= partial "header"%>
--<body>
-
--<!--Add People Content -->
 
 <% require 'yaml' %>
 <% data = YAML::load_file(File.join(File.dirname(File.expand_path(__FILE__)), 'data/data.yml')) %>
