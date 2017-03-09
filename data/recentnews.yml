@@ -1,117 +1,330 @@
 ---
 recent-news:
-  news: "GRAD AND UNDERGRAD POSITIONS IMMEDIATELY AVAILABLE IN THE COMPUTER VISION LAB."
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/labpositions.html"
-  news: "Promoted to Full Professor, September 2013."
-  news: "'One-Class Multiple Instance Learning and Applications to Target Tracking' appears in Asian Conference on Computer Vision, November 2012."
-  news: "Segmentation and Scene Modeling for MIL-based Target Localization" appears in International Conference on Pattern Recognition, November 2012.
-  news: "Recipient of 2012 OSU College of Engineering Lumley Research Award."
-  news: "Workshop co-Chair, IEEE Conference on Computer Vision and Pattern Recognition (2014)."
-  news: "Program co-Chair, Symposium on Frontiers of Motion Understanding (2013)."
-  news: "Detecting Behavioral Zones in Local and Global Camera Views" appears in Machine Vision and Applications 2012.
-  news: ""Recovery and Reasoning about Occlusions in 3D using Few Cameras with Applications to 3D Tracking" appears in International Journal of Computer Vision 2011."
-  news: ""Object Association Across PTZ Cameras using Logistic MIL" and "Using Ripley's K-function to Improve Graph-Based Clustering Techniques" appears in IEEE Computer Vision and Pattern Recognition (CVPR) 2011."
-  news: "Best Paper Award: "Attention-based Target Localization using Multiple Instance Learning", International Symposium on Visual Computing, November 2010."
-  news: "IEEE Computer Vision and Pattern Recognition Reviewer Award 2010."
-  news: ""Exploiting Multiple Cameras for Environmental Pathlets", "Learning Scene Entries and Exits using Coherent Motion Regions", and "Attention-based Target Localization using Multiple Instance Learning" appears in International Symposium on Visual Computing, November 2010."
-  news: ""PTZ Camera Modeling and Panoramic View Generation via Focal Plane Mapping" appears in Asian Conference on Computer Vision, November 2010."
-  news: ""Extracting Pathlets From Weak Tracking Data" and "Learning Directed Intention-driven Activities using Co-Clustering" appears in IEEE Conference on Advanced Video and Signal Based Surveillance, August 2010."
-  news: "CSE Teaching Award 2009-2010."
-  news: "Co-Program Chair, IEEE International Conference on Advanced Video and Signal based Surveillance (Sept. 2010)."
-  news: "Co-General Chair, IEEE Workshop on Motion and Video Computing (Dec. 2009)."
-  news: "iMix, Big10 TV Network, "Smart Surveillance" (initially aired 7/28/09) [WWW]"
-    - link: "http://www.cse.ohio-state.edu/~jwdavis/imix.html"
-  news: "10TV news (CBS), "Smart Technology Being Used At Ohio State" (Aired 07/17/09) [WWW]"
-    - link: "http://www.10tv.com/live/content/crimetracker10/stories/2009/07/17/story_osu_security.html?sid=102"
-  news: "SPIE Newsroom: Electronic Imaging & Signal Processing, "A Feature-Selection Approach to Fusing Electro-Optical and IR Imagery" (February 25, 2009) [PDF] [WWW]"
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/SPIE09.pdf"
-    - link: "http://spie.org/x33833.xml?highlight=x2410&ArticleID=x33833"
-  news: "MSNBC, Technology & Science, "Computer has eye for Suspicious Behavior" (January 26, 2009) [PDF (no pictures)], [WWW]"
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/MSNBC-09.pdf"
-    - link: "http://www.msnbc.msn.com/id/28566179/"
-  news: "Columbus Dispatch, "Computers Might Spot People up to no Good" (January 24, 2009) [PDF], [WWW]"
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/dispatch09.pdf"
-    - link: "http://dispatch.com/live/content/local_news/stories/2009/01/24/cameras.ART_ART_01-24-09_B4_5ICLMCL.html?sid=101"
-  news: "The Economist, Science & Technology section, 'Surveillance Technology: If Looks Could Kill', October 23, 2008 [PDF]"
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/TheEconomist08.pdf"
-  news: ""A Fast Linear Registration Framework for Multi-Camera GIS Coordination", IEEE International Conference on Advanced Video and Signal Based Surveillance, September 2008."
-  news: ""3D Occlusion Recovery using Few Cameras" and "A Recursive Filter For Linear Systems on Riemannian Manifolds", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2008, Anchorage, Alaska."
-  news: ""Integrating Appearance and Motion Cues for Simultaneous Detection and Segmentation of Pedestrians", IEEE International Conference on Computer Vision (October, 2007; oral accept rate 3.9%)."
-  news: "OSU CSE Newletter, Focus on Research Article, 'Jim Davis: Vision for the Future of Surveillance', Autumn 2007, pages 2-3 [PDF]"
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/jwdavis-research-cse-07.pdf"
-  news: "Video clips of our research on tracking people in surveillance videos shown in Frontline: "Spying on the Home Front" (Aired 05/15/07) [wmv video clip (no audio)], credits"
-    - link: "http://www.cse.ohio-state.edu/~jwdavis/Media/pbsFrontline-07.asx"
-    - link: "http://www.pbs.org/wgbh/pages/frontline/homefront/etc/credits.html"
-  news: ""Simultaneous Detection and Segmentation of Pedestrians using Top-down and Bottom-up Processing" and "Kernel-Based 3D Tracking", IEEE International Workshop on Visual Surveillance, June 2007."
-  news: ""Next Steps in Automatic Video Surveillance", invited seminar at ASIS International Annual Seminars and Exhibits, May 17, 2007 [brochure]."
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/ASE2007brochure.pdf"
-  news: ""Background-Subtraction using Contour-based Fusion of Thermal and Visible Imagery", Computer Vision and Image Understanding, Vol. 106, No. 2-3, 2007, pp. 162-182."
-  news: ""An Adaptive Focus-of-Attention Model for Video Surveillance and Monitoring", Machine Vision and Applications, Vol. 18, No. 1, 2007, pp. 41-64."
-  news: ""Building Adaptive Camera Models for Video Surveillance", IEEE Workshop on Application of Computer Vision, February 2007."
-  news: ""Extraction of Person Silhouettes from Surveillance Imagery using MRFs", IEEE Workshop on Application of Computer Vision, February 2007."
-  news: ""Fusion of Multiple Camera Views for Kernel-Based 3D Tracking", IEEE Workshop on Motion and Video Computing, February 2007."
-  news: ""Tracking Mean Shift Clustered Point Clouds for 3D Surveillance", and "Multiview Fusion for Canonical View Generation based on Homography Constraints" ACM Mulimedia Workshop on Video Surveillance and Sensor Networks, October 2006."
-  news: ""Background-Subtraction in Thermal Imagery Using Contour Saliency", International Journal of Computer Vision, Vol. 71, No. 2, 2007, pp. 161-181."
-  news: ""Feature-level Fusion for Object Segmentation using Mutual Information", IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, New York, NY, June 22, 2006."
-  news: ""Minimal-Latency Human Action Recognition using Reliable-Inference", Image and Vision Computing, Vol 24, 2006, pp. 455-472."
-  news: "Co-Chair, for IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum (OTCBVS), June 22, 2006."
-    - link: "http://www.cse.ohio-state.edu/otcbvs/"
-  news: ""Sampling Representative Examples for Dimensionality Reduction and Recognition - Bootstrap Bumping LDA", European Conference on Computer Vision (ECCV), Graz, Austria, May 7-13, 2006."
-  news: ""Why Direct LDA Is Not Equivalent to LDA", Pattern Recognition, Vol. 39, 2006, pp. 1002-1006."
-  news: "Promotion to Associate Professor with Tenure (October 1, 2005)."
-  news: "Guest Editor (w/ Riad Hammoud) for CVIU Special Issue on Advances in Vision Algorithms and Systems Beyond the Visible Spectrum. [CALL FOR PAPERS]"
-    - link: "http://www.cse.ohio-state.edu/cviu-bvs"
-  news: ""Modeling Behavior Trends and Detecting Abnormal Events using Seasonal Kalman Filters", Workshop on Human Activity Recognition and Modeling, Oxford, UK, September 9, 2005."
-  news: "OSU News In Engineering Research Update article: "Advancing Technologies for Internet Video", Vol. 77, No. 1, Spring 2005."
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/NIE_77.1_Spring_2005.pdf"
-  news: "Appointed as Associate Editor for Machine Vision and Applications journal (May 2005)."
-  news: "OSU Alumni Magazine Research Report Article: "Watch the Hands and Face", May/June, 2005, page 8."
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/OSAM05.pdf"
-  news: "Recipient of 2005 OSU College of Engineering Lumley Research Award."
-  news: ""Fusion-based Background-Subtraction using Contour Saliency", IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, San Diego, CA, June 20, 2005."
-  news: "AAAS Science Update Radio Feature: 'Internet Video: A new technology could make watching video on the Internet less frustrating'(January 12, 2005) [MP3 audio clip]."
-    - link: "http://www.scienceupdate.com/january05.html#050112"
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/16-InternetVideoStory.mp3"
-  news: ""A Two-Stage Template Approach to Person Detection in Thermal Imagery", Workshop on Applications of Computer Vision, Breckenridge, Colorado, January 7, 2005."
-  news: "ACM TechNews Feature "Researchers Find Way to Make Internet Video More Appealing", Vol. 6, Issue 734, December 22, 2004 [pdf]."
-    - link: "http://www.acm.org/technews/articles/2004-6/1222w.html"
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/ACMNewsService.pdf"
-  news: "OSU News Release (12/21/04): "Researchers find way to make internet video more appealing"."
-    - link: "http://researchnews.osu.edu/archive/facevid.htm"
-  news: "Benchmark and Website Chair for IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum (OTCBVS), June 20, 2005."
-    - link: "http://www.cse.ohio-state.edu/otcbvs/05/"
-  news: "Call for participation in OTCBVS benchmark data collection."
-    - link: "http://www.cse.ohio-state.edu/otcbvs-bench/"
-  news: ""Differential Video Coding of Face and Gesture Events in Presentation Videos", Computer Vision and Image Understanding, Vol. 96, No. 2, 2004, pp. 200-215."
-  news: ""Robust Detection of People in Thermal Imagery", International Conference on Pattern Recognition (August 2004)."
-  news: "NSF ITR grant award ($1.3M) for proposal "Multi-Level, Active Attention Surveillance" (2004-2007)."
-  news: ""Sequential Reliable-Inference for Rapid Detection of Human Actions", IEEE Workshop on Detection and Recognition of Events in Video (July 2004)."
-  news: ""Robust Background-Subtraction for Person Detection in Thermal Imagery", IEEE International Workshop on Object Tracking and Classification Beyond the Visible Spectrum (July 2004)."
-  news: ""Detection and Recognition of Human Activity in Thermal Video", Presentation at U.S. Army Night Vision Laboratory, Fort Belvoir, VA, June 28, 2004."
-  news: ""Gender Recognition from Walking Movements using Adaptive Three-Mode PCA", IEEE Workshop on Articulated and Nonrigid Motion (June 2004)."
-  news: "TV interview: "They're Watching You" (Aired 5/10/04)."
-  news: ""Video Surveillance of Tomorrow", invited seminar at ASIS International Annual Seminars and Exhibits, May 13, 2004 [brochure]."
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/ASE2004brochure.pdf"
-  news: ""An Expressive Three-Mode Principal Components Model for Gender Recognition", Journal of Vision, Vol. 4, No. 5, 2004, pp. 362-377."
-  news: "Interview in feature article, "HSARPA seeking video software technology to interpret complex surveillance stream", Homeland Security & Defense, Vol. 3, No. 16, April 21, 2004."
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/HSARPA.pdf"
-  news: ""Representing and Recognizing Human Actions", Presentation at Robotics Institute, Carnegie Mellon University, March 26, 2004."
-  news: ""Computer Recognition of Human Actions", Presentation at Siemens Corp., Princeton, NJ, Dec. 15, 2003."
-  news: ""Computer Recognition of Human Actions", Presentation at Boston University, Oct. 30, 2003."
-  news: ""Computer Recognition of Human Actions", Presentation at University of Illinois at Urbana-Champaign, Oct. 24, 2003."
-  news: "Interview in Tech Now feature article, 'Hot on Surveillance: Thermal technology grows in popularity, importance in post-911 world', Columbus Business First, Vol. 20, No. 7, Oct. 17, 2003."
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/busFirst03.pdf"
-  news: "'Recognizing Human Action Efforts: An Adaptive Three-Mode PCA Framework', International Conference on Computer Vision (ICCV), Oct. 13-16, 2003, Nice, France, pp. 1463-1469."
-  news: ""An Expressive Three-Mode Principal Components Model of Human Action Style", Image and Vision Computing, Vol. 21, No. 11, 2003, pp. 1001-1016."
-  news: ""A Reliable-Inference Framework for Recognition of Human Actions", IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), pp. 169-176, July 21-22, 2003, Miami, FL."
-  news: "OSU News In Engineering article (and cover): "Future Innovators", Vol. 75, No. 1, Spring 2003."
-    - link: "http://www.eng.ohio-state.edu/nie/nie751/751_future_innovators.html"
-  news: "OSU Lantern article: 'Night Vision: Advanced thermal surveillance system used to identify and catalogue motion' (5/12/03)."
-    - link: "http://web.cse.ohio-state.edu/~jwdavis/Media/lantern.pdf"
-  news: "TV Interviews"
-    - link: "Fox-28/ABC-6 News (aired 05/09/03, 05/08/03)"
-    - link: "NBC-4 News (aired 05/09/03)"
-    - link: "CBS-10 News (aired 05/04/03)"
-  news: "Press Release (04/30/03): 'Researcher developing video technology for surveillance: Cameras being trained to `see' people and recognize their activities'"
-  news: "Recipient of 2003 NSF Career Award (March 2003)."
-  news: ""A Three-Mode Expressive Feature Model of Action Effort", IEEE Workshop on Motion and Video Computing, Dec. 5-6, 2002, pp. 139-144. [Received a Lockheed-Martin Best Paper Award]"
+  -
+    text: "GRAD AND UNDERGRAD POSITIONS IMMEDIATELY AVAILABLE IN THE COMPUTER VISION LAB."
+    www: "http://web.cse.ohio-state.edu/~jwdavis/labpositions.html"
+    pdf: ~
+  -
+    text: "Promoted to Full Professor, September 2013."
+    www: ~
+    pdf: ~
+  -
+    text: <"One-Class Multiple Instance Learning and Applications to Target Tracking" appears in Asian Conference on Computer Vision, November 2012.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Segmentation and Scene Modeling for MIL-based Target Localization" appears in International Conference on Pattern Recognition, November 2012.>
+    www: ~
+    pdf: ~
+  -
+    text: "Recipient of 2012 OSU College of Engineering Lumley Research Award."
+    www: ~
+    pdf: ~
+  -
+    text: "Workshop co-Chair, IEEE Conference on Computer Vision and Pattern Recognition (2014)."
+    www: ~
+    pdf: ~
+  -
+    text: "Program co-Chair, Symposium on Frontiers of Motion Understanding (2013)."
+    www: ~
+    pdf: ~
+  -
+    text: <"Detecting Behavioral Zones in Local and Global Camera Views" appears in Machine Vision and Applications 2012.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Recovery and Reasoning about Occlusions in 3D using Few Cameras with Applications to 3D Tracking" appears in International Journal of Computer Vision 2011.">
+    www: ~
+    pdf: ~
+  -
+    text: <"Object Association Across PTZ Cameras using Logistic MIL" and "Using Ripley's K-function to Improve Graph-Based Clustering Techniques" appears in IEEE Computer Vision and Pattern Recognition (CVPR) 2011.">
+    www: ~
+    pdf: ~
+  -
+    text: "Best Paper Award: 'Attention-based Target Localization using Multiple Instance Learning', International Symposium on Visual Computing, November 2010."
+    www: ~
+    pdf: ~
+  -
+    text: "IEEE Computer Vision and Pattern Recognition Reviewer Award 2010."
+    www: ~
+    pdf: ~
+  -
+    text: <"Exploiting Multiple Cameras for Environmental Pathlets", "Learning Scene Entries and Exits using Coherent Motion Regions", and "Attention-based Target Localization using Multiple Instance Learning" appears in International Symposium on Visual Computing, November 2010.">
+    www: ~
+    pdf: ~
+  -
+    text: <"PTZ Camera Modeling and Panoramic View Generation via Focal Plane Mapping" appears in Asian Conference on Computer Vision, November 2010.">
+    www: ~
+    pdf: ~
+  -
+    text: <"Extracting Pathlets From Weak Tracking Data" and "Learning Directed Intention-driven Activities using Co-Clustering" appears in IEEE Conference on Advanced Video and Signal Based Surveillance, August 2010.">
+    www: ~
+    pdf: ~
+  -
+    text: "CSE Teaching Award 2009-2010."
+    www: ~
+    pdf: ~
+  -
+    text: "Co-Program Chair, IEEE International Conference on Advanced Video and Signal based Surveillance (Sept. 2010)."
+    www: ~
+    pdf: ~
+  -
+    text: "Co-General Chair, IEEE Workshop on Motion and Video Computing (Dec. 2009)."
+    www: ~
+    pdf: ~
+  -
+    text: <"iMix, Big10 TV Network, "Smart Surveillance" (initially aired 7/28/09)">
+    www: "http://www.cse.ohio-state.edu/~jwdavis/imix.html"
+    pdf: ~
+  -
+    text: <"10TV news (CBS), "Smart Technology Being Used At Ohio State" (Aired 07/17/09)">
+    www: "http://www.10tv.com/live/content/crimetracker10/stories/2009/07/17/story_osu_security.html?sid=102"
+    pdf: ~
+  -
+    text: "SPIE Newsroom: Electronic Imaging & Signal Processing, 'A Feature-Selection Approach to Fusing Electro-Optical and IR Imagery' (February 25, 2009)"
+    www: "http://spie.org/x33833.xml?highlight=x2410&ArticleID=x33833"
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Publications/SPIE09.pdf"
+  -
+    text: <"MSNBC, Technology & Science, "Computer has eye for Suspicious Behavior" (January 26, 2009)">
+    www: "http://www.msnbc.msn.com/id/28566179/"
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/MSNBC-09.pdf"
+  -
+    text: <"Columbus Dispatch, "Computers Might Spot People up to no Good" (January 24, 2009)">
+    www: "http://dispatch.com/live/content/local_news/stories/2009/01/24/cameras.ART_ART_01-24-09_B4_5ICLMCL.html?sid=101"
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/dispatch09.pdf"
+  -
+    text: "The Economist, Science & Technology section, 'Surveillance Technology: If Looks Could Kill', October 23, 2008"
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/TheEconomist08.pdf"
+  -
+    text: <"A Fast Linear Registration Framework for Multi-Camera GIS Coordination", IEEE International Conference on Advanced Video and Signal Based Surveillance, September 2008.>
+    www: ~
+    pdf: ~
+  -
+    text: <"3D Occlusion Recovery using Few Cameras" and "A Recursive Filter For Linear Systems on Riemannian Manifolds", IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2008, Anchorage, Alaska.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Integrating Appearance and Motion Cues for Simultaneous Detection and Segmentation of Pedestrians", IEEE International Conference on Computer Vision (October, 2007; oral accept rate 3.9%)."
+    www: ~
+    pdf: ~
+  - 
+    text: "OSU CSE Newletter, Focus on Research Article, 'Jim Davis: Vision for the Future of Surveillance', Autumn 2007, pages 2-3"
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/jwdavis-research-cse-07.pdf"
+  -
+    text: "Video clips of our research on tracking people in surveillance videos shown in Frontline: \"Spying on the Home Front\" (Aired 05/15/07)"
+    www: "http://www.pbs.org/wgbh/pages/frontline/homefront/etc/credits.html"
+    pdf: "http://www.cse.ohio-state.edu/~jwdavis/Media/pbsFrontline-07.asx"
+  -
+    text: <"Simultaneous Detection and Segmentation of Pedestrians using Top-down and Bottom-up Processing" and "Kernel-Based 3D Tracking", IEEE International Workshop on Visual Surveillance, June 2007."
+    www: ~
+    pdf: ~
+  -
+    text: <"Next Steps in Automatic Video Surveillance", invited seminar at ASIS International Annual Seminars and Exhibits, May 17, 2007.>
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/ASE2007brochure.pdf"
+  - 
+    text: <"Background-Subtraction using Contour-based Fusion of Thermal and Visible Imagery", Computer Vision and Image Understanding, Vol. 106, No. 2-3, 2007, pp. 162-182.>
+    www: ~
+    pdf: ~
+  -
+    text: <"An Adaptive Focus-of-Attention Model for Video Surveillance and Monitoring", Machine Vision and Applications, Vol. 18, No. 1, 2007, pp. 41-64.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Building Adaptive Camera Models for Video Surveillance", IEEE Workshop on Application of Computer Vision, February 2007.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Extraction of Person Silhouettes from Surveillance Imagery using MRFs", IEEE Workshop on Application of Computer Vision, February 2007.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Fusion of Multiple Camera Views for Kernel-Based 3D Tracking", IEEE Workshop on Motion and Video Computing, February 2007.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Tracking Mean Shift Clustered Point Clouds for 3D Surveillance", and "Multiview Fusion for Canonical View Generation based on Homography Constraints" ACM Mulimedia Workshop on Video Surveillance and Sensor Networks, October 2006.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Background-Subtraction in Thermal Imagery Using Contour Saliency", International Journal of Computer Vision, Vol. 71, No. 2, 2007, pp. 161-181.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Feature-level Fusion for Object Segmentation using Mutual Information", IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, New York, NY, June 22, 2006.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Minimal-Latency Human Action Recognition using Reliable-Inference", Image and Vision Computing, Vol 24, 2006, pp. 455-472.>
+    www: ~
+    pdf: ~
+  -
+    text: "Co-Chair, for IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum (OTCBVS), June 22, 2006."
+    www: "http://www.cse.ohio-state.edu/otcbvs/"
+    pdf: ~
+  -
+    text: <"Sampling Representative Examples for Dimensionality Reduction and Recognition - Bootstrap Bumping LDA", European Conference on Computer Vision (ECCV), Graz, Austria, May 7-13, 2006.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Why Direct LDA Is Not Equivalent to LDA", Pattern Recognition, Vol. 39, 2006, pp. 1002-1006.>
+    www: ~
+    pdf: ~
+  -
+    text: "Promotion to Associate Professor with Tenure (October 1, 2005)."
+    www: ~
+    pdf: ~
+  -
+    text: "Guest Editor (w/ Riad Hammoud) for CVIU Special Issue on Advances in Vision Algorithms and Systems Beyond the Visible Spectrum."
+    www: "http://www.cse.ohio-state.edu/cviu-bvs"
+    pdf: ~
+  -
+    text: <"Modeling Behavior Trends and Detecting Abnormal Events using Seasonal Kalman Filters", Workshop on Human Activity Recognition and Modeling, Oxford, UK, September 9, 2005.>
+    www: ~
+    pdf: ~
+  -
+    text: "OSU News In Engineering Research Update article: \"Advancing Technologies for Internet Video\", Vol. 77, No. 1, Spring 2005."
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/NIE_77.1_Spring_2005.pdf"
+  -
+    text: "Appointed as Associate Editor for Machine Vision and Applications journal (May 2005)."
+    www: ~
+    pdf: ~
+  -
+    text: "OSU Alumni Magazine Research Report Article: \"Watch the Hands and Face\", May/June, 2005, page 8."
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/OSAM05.pdf"
+  -
+    text: "Recipient of 2005 OSU College of Engineering Lumley Research Award."
+    www: ~
+    pdf: ~
+  - 
+    text: <"Fusion-based Background-Subtraction using Contour Saliency", IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, San Diego, CA, June 20, 2005.>
+    www: ~
+    pdf: ~
+  -
+    text: "AAAS Science Update Radio Feature: 'Internet Video: A new technology could make watching video on the Internet less frustrating'(January 12, 2005)."
+    www: "http://www.scienceupdate.com/january05.html#050112"
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/16-InternetVideoStory.mp3"
+  -
+    text: <"A Two-Stage Template Approach to Person Detection in Thermal Imagery", Workshop on Applications of Computer Vision, Breckenridge, Colorado, January 7, 2005.">
+    www: ~
+    pdf: ~
+  -
+    text: <ACM TechNews Feature "Researchers Find Way to Make Internet Video More Appealing", Vol. 6, Issue 734, December 22, 2004>
+    www: "http://www.acm.org/technews/articles/2004-6/1222w.html"
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/ACMNewsService.pdf"
+  -
+    text: "OSU News Release (12/21/04): \"Researchers find way to make internet video more appealing\"."
+    www: "http://researchnews.osu.edu/archive/facevid.htm"
+    pdf: ~
+  -
+    text: "Benchmark and Website Chair for IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum (OTCBVS), June 20, 2005."
+    www: "http://www.cse.ohio-state.edu/otcbvs/05/"
+    pdf: ~
+  -
+    text: "Call for participation in OTCBVS benchmark data collection."
+    www: "http://www.cse.ohio-state.edu/otcbvs-bench/"
+    pdf: ~
+  -
+    text: <"Differential Video Coding of Face and Gesture Events in Presentation Videos", Computer Vision and Image Understanding, Vol. 96, No. 2, 2004, pp. 200-215.">
+    www: ~
+    pdf: ~
+  -
+    text: <"Robust Detection of People in Thermal Imagery", International Conference on Pattern Recognition (August 2004).>
+    www: ~
+    pdf: ~
+  -
+    text: <NSF ITR grant award ($1.3M) for proposal "Multi-Level, Active Attention Surveillance" (2004-2007).>
+    www: ~
+    pdf: ~
+  -
+    text: <"Sequential Reliable-Inference for Rapid Detection of Human Actions", IEEE Workshop on Detection and Recognition of Events in Video (July 2004).>
+    www: ~
+    pdf: ~
+  -
+    text: <"Robust Background-Subtraction for Person Detection in Thermal Imagery", IEEE International Workshop on Object Tracking and Classification Beyond the Visible Spectrum (July 2004).>
+    www: ~
+    pdf: ~
+  -
+    text: <"Detection and Recognition of Human Activity in Thermal Video", Presentation at U.S. Army Night Vision Laboratory, Fort Belvoir, VA, June 28, 2004.>
+    www: ~
+    pdf: ~
+  - 
+    text: <"Gender Recognition from Walking Movements using Adaptive Three-Mode PCA", IEEE Workshop on Articulated and Nonrigid Motion (June 2004).>
+    www: ~
+    pdf: ~
+  -
+    text: "TV interview: \"They're Watching You\" (Aired 5/10/04)."
+    www: ~
+    pdf: ~
+  -
+    text: <"Video Surveillance of Tomorrow", invited seminar at ASIS International Annual Seminars and Exhibits, May 13, 2004>
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/ASE2004brochure.pdf"
+  -
+    text: <"An Expressive Three-Mode Principal Components Model for Gender Recognition", Journal of Vision, Vol. 4, No. 5, 2004, pp. 362-377.>
+    www: ~
+    pdf: ~
+  -
+    text: <Interview in feature article, "HSARPA seeking video software technology to interpret complex surveillance stream", Homeland Security & Defense, Vol. 3, No. 16, April 21, 2004.>
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/HSARPA.pdf"
+  -
+    text: <"Representing and Recognizing Human Actions", Presentation at Robotics Institute, Carnegie Mellon University, March 26, 2004.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Computer Recognition of Human Actions", Presentation at Siemens Corp., Princeton, NJ, Dec. 15, 2003.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Computer Recognition of Human Actions", Presentation at Boston University, Oct. 30, 2003.>
+    www: ~
+    pdf: ~
+  -
+    text: <"Computer Recognition of Human Actions", Presentation at University of Illinois at Urbana-Champaign, Oct. 24, 2003.>
+    www: ~
+    pdf: ~
+  - 
+    text: "Interview in Tech Now feature article, 'Hot on Surveillance: Thermal technology grows in popularity, importance in post-911 world', Columbus Business First, Vol. 20, No. 7, Oct. 17, 2003."
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/busFirst03.pdf"
+  -
+    text: "'Recognizing Human Action Efforts: An Adaptive Three-Mode PCA Framework', International Conference on Computer Vision (ICCV), Oct. 13-16, 2003, Nice, France, pp. 1463-1469."
+    www: ~
+    pdf: ~
+  -
+    text: <"An Expressive Three-Mode Principal Components Model of Human Action Style", Image and Vision Computing, Vol. 21, No. 11, 2003, pp. 1001-1016.>
+    www: ~
+    pdf: ~
+  -
+    text: <"A Reliable-Inference Framework for Recognition of Human Actions", IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), pp. 169-176, July 21-22, 2003, Miami, FL.>
+    www: ~
+    pdf: ~
+  -
+    text: "OSU News In Engineering article (and cover): \"Future Innovators\", Vol. 75, No. 1, Spring 2003."
+    www: "http://www.eng.ohio-state.edu/nie/nie751/751_future_innovators.html"
+    pdf: ~
+  -
+    text: "OSU Lantern article: 'Night Vision: Advanced thermal surveillance system used to identify and catalogue motion' (5/12/03)."
+    www: ~
+    pdf: "http://web.cse.ohio-state.edu/~jwdavis/Media/lantern.pdf"
+  -
+    text: <TV Interviews:Fox-28/ABC-6 News (aired 05/09/03, 05/08/03), NBC-4 News (aired 05/09/03),CBS-10 News (aired 05/04/03)> 
+    www: ~
+    pdf: ~
+  -
+    text: "Press Release (04/30/03): 'Researcher developing video technology for surveillance: Cameras being trained to `see' people and recognize their activities'"
+    www: ~
+    pdf: ~
+  - 
+    text: "Recipient of 2003 NSF Career Award (March 2003)."
+    www: ~
+    pdf: ~
+  -
+    text: <"A Three-Mode Expressive Feature Model of Action Effort", IEEE Workshop on Motion and Video Computing, Dec. 5-6, 2002, pp. 139-144. [Received a Lockheed-Martin Best Paper Award]>
+    www: ~
+    pdf: ~
