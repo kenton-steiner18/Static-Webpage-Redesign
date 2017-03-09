@@ -1,9 +1,11 @@
 <!-- Expects an item with required title and text. links are optional -->
-<% full_text = item.title + ': ' + item.text %>
 <li>
 <% if item.link.nil? %>
-	<%= full_text %>
+	<%= "<em><strong>#{item.title}</strong></em>: #{item.text}" %>
 <% else %>
-	<%= link_to full_text, item.link %>
+	<%= link_to "<em><strong>#{item.title}</strong></em>:", item.link %> <%= item.text%>
+<% end %>
+<% unless item.link2.nil? %>
+	<%= link_to "<em>[WWW]</em>", item.link2 %>
 <% end %>
 </li>

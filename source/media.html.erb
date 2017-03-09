@@ -18,10 +18,7 @@
 		<h1><%= data.media.print.title %></h1>
 		<!-- create an unordered list of all his prints -->
 		<ul>
-			<% data.media.print.list.each do |item|%>
-				<% full_text = item.title + ': ' +  item.text %>
-				<li><%= full_text %></li>
-			<% end %>
+			<%= partial "partials/print_simple_list", locals: {list: data.media.print.list} %>
 		</ul>
 	</div>
 </div>
