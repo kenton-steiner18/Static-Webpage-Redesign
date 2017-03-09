@@ -175,11 +175,11 @@ publication:
 
   - name: "A Feature-Selection Approach to Fusing Electro-Optical and IR Imagery"
   - author: V. Sharma and J. Davis
-  - publisher: SPIE Newsroom: Electronic Imaging & Signal Processing, February 2009.
+  - publisher: "SPIE Newsroom: Electronic Imaging & Signal Processing, February 2009."
   - tag: [paper]
     link: http://web.cse.ohio-state.edu/~jwdavis/Publications/SPIE09.pdf
-    tag: [HTML]
-    link: http://spie.org/x33833.xml?highlight=x2410&ArticleID=x33833 
+  - tag2: [HTML]
+    link2: http://spie.org/x33833.xml?highlight=x2410&ArticleID=x33833 
   - award: null
 
 
@@ -268,8 +268,8 @@ publication:
   - publisher: Computer Vision and Image Understanding, Vol. 106, No. 2-3, 2007, pp. 162-182.
   - tag: [paper]
     link: http://web.cse.ohio-state.edu/~jwdavis/Publications/cviu07.pdf
-    tag: [HTML]
-    link: http://dx.doi.org/10.1016/j.cviu.2006.06.010
+  - tag2: [HTML]
+    link2: http://dx.doi.org/10.1016/j.cviu.2006.06.010
   - award: null
 
 
@@ -452,8 +452,8 @@ publication:
   - publisher: Journal of Vision, Vol. 4, No. 5, 2004, pp. 362-377.
   - tag: [paper]
     link: http://web.cse.ohio-state.edu/~jwdavis/Publications/jov04.pdf
-    tag: [HTML]
-    link: http://www.journalofvision.org/4/5/2/
+  - tag2: [HTML]
+    link2: http://www.journalofvision.org/4/5/2/
   - award: null
 
   - name: "An Expressive Three-Mode Principal Components Model of Human Action Style"
@@ -586,7 +586,7 @@ publication:
 
   - name: "The Kidsroom: A Perceptually-Based Interactive and Immersive Story Environment"
   - author: A. Bobick, S. Intille, J. Davis, F. Baird, C. Pinhanez, L. Campbell, Y. Ivanov, A. Schutte, and A. Wilson
-  - publisher: Presence: Teleoperators and Virtual Environments, Vol. 8, No. 4, 1999, pp. 367-391.
+  - publisher: "Presence: Teleoperators and Virtual Environments, Vol. 8, No. 4, 1999, pp. 367-391."
   - tag: [paper]
     link: http://web.cse.ohio-state.edu/~jwdavis/Publications/kidsroom.pdf
   - award: null
@@ -618,7 +618,7 @@ publication:
 
   - name: "A Robust Human-Silhouette Extraction Technique for Interactive Virtual Environments"
   - author: J. Davis and A. Bobick
-  - publisher: In Lecture Notes in Artificial Intelligence (Ed. by N. Magnenat-Thalmann & D. Thalmann), 1537, Heidelberg: Springer-Verlag, 1998, pp. 12-25. 
+  - publisher: "In Lecture Notes in Artificial Intelligence (Ed. by N. Magnenat-Thalmann & D. Thalmann), 1537, Heidelberg: Springer-Verlag, 1998, pp. 12-25."
   - (IFIP Workshop on Modeling and Motion Capture Techniques for Virtual Environments, 1998.)
   - tag: [paper]
     link: http://web.cse.ohio-state.edu/~jwdavis/Publications/captech98.pdf
