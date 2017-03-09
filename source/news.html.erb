@@ -1,0 +1,19 @@
+<!-- Authored by Kenton Steiner - 3/9 -->
+<div class="container">
+	<div class="rnews">
+		<h1>Recent News</h1>
+		<ul class="news">
+			<% data.news.recentnews.each do |a| %>
+				<li>
+					<%= a.text%>
+					<% if !a.www.nil?%>
+						<a href=<%=a.www%>>Link</a>
+					<% end%>
+					<% if !a.pdf.nil?%>
+						<a href=<%=a.pdf%>>PDF</a>
+					<% end%>
+				</li>
+			<% end %>
+		</ul>
+	</div>
+</div>

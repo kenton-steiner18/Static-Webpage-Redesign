@@ -1,0 +1,4 @@
+<!-- Expects 1 parameter: Array of Tuples(title,text) called list -->
+<% list.each do |item| %>
+	<%= partial "partials/print_item", locals: {item: item} %>
+<% end %>
