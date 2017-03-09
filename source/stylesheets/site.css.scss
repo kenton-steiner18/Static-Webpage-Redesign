@@ -6,4 +6,48 @@ html, body, div, span, p, a, img, ul, li{
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 14px;
 } 
+/*Will underline any link hovered over*/
+a:hover {
+	text-decoration: underline;
+}
+.container {
+	width: 1250px;
+	margin: auto;
+}
+.container h1{
+	color: gray;
+	font-weight: 100;
+	margin: .1em auto;
+}
+/*Home page*/
+.home {
+	padding-left: 10%;
+	list-style: disc;
+	width: 1250px;
+}
 
+.appointments{
+	clear: left;
+}
+
+.about_me p span {
+	font-size: 20px;
+}
+/*the first child will be the name*/
+.about_me p a:first-child {
+	text-decoration: none;
+	color: inherit;
+}
+.about_me p a:first-child:hover {
+	text-decoration: underline;
+}
+#davis_picture {
+	width:17em;
+	float:left;
+	margin-right: .5em;
+}
+#video_surveillance {
+	width: 7.5em;
+	float:left;
+	margin-right: .5em;
+}
