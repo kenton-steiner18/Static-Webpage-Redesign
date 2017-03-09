@@ -3,35 +3,29 @@
 # Home Page
 appointments: 
   - 
-    dept: "Dept. of Computer Science and Engineering"
+    text: "Dept. of Computer Science and Engineering <em>[OSU]</em>"
     link: "http://www.cse.ohio-state.edu/"
-    location: OSU
-    text: "2013 - present: Full Professor, Dept. of Computer Science and Engineering,"
+    title: "2013 - present: Full Professor, Dept. of Computer Science and Engineering"
   - 
-    dept: "Dept. of Computer Science and Engineering"
+    text: "Dept. of Computer Science and Engineering <em>[OSU]</em>"
     link: "http://www.cse.ohio-state.edu/"
-    location: OSU
-    text: "2005 - 2013: Associate Professor,"
+    title: "2005 - 2013: Associate Professor"
   - 
-    dept: "Dept. of Computer Science and Engineering"
+    text: "Dept. of Computer Science and Engineering <em>[OSU]</em>"
     link: "http://www.cse.ohio-state.edu/"
-    location: OSU
-    text: "2000 - 2005: Assistant Professor,"
+    title: "2000 - 2005: Assistant Professor"
   - 
-    dept: "Institute for Ergonomics"
+    text: "Institute for Ergonomics <em>[OSU]</em>"
     link: "http://ergonomics.osu.edu"
-    location: OSU
-    text: "2004 - present: Faculty Member,"
+    title: "2004 - present: Faculty Member"
   - 
-    dept: "Center for Cognitive Science"
+    text: "Center for Cognitive Science <em>[OSU]</em>"
     link: "http://www.cog.ohio-state.edu/"
-    location: OSU
-    text: "2000 - present: Faculty Member,"
+    title: "2000 - present: Faculty Member"
   - 
-    dept: "Advanced Computing Center for the Arts & Design"
+    text: "Advanced Computing Center for the Arts & Design <em>[OSU]</em>" 
     link: "http://www.accad.ohio-state.edu/"
-    location: OSU
-    text: "2000 - present: Affiliated Faculty,"
+    title: "2000 - present: Affiliated Faculty"
 intro: 
   credential: "Ph.D. MIT, 2000"
   email: jwdaviscse.ohio-state.edu

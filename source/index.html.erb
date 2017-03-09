@@ -22,13 +22,7 @@
 	<div class="appointments">
 		<h1>Appointments</h1>
 		<ul class="home">
-			<% data.home.appointments.each do |a|%>
-			<li>
-				<%= a.text%>,
-				<a href=<%= a.link%>><%= a.dept%></a>
-				[<%= a.location%>]
-			</li>
-			<% end %>
+			<%= partial "partials/print_simple_list", locals: {list: data.home.appointments} %>
 		</ul>
 	</div>
 	<!-- RESEARCH INTERESTS sections -->
