@@ -2,13 +2,12 @@
 <% data = YAML::load(File.open('data/teaching.yml')) %>
 
 
-<div class = "container">
+
 <div class = "people"> <!--people-->
 
 	<body>
 		<!--Students-->
 		<div class = "teaching">
-
 
 				<% data["teaching"].each do |section| %>
 
@@ -28,5 +27,4 @@
 
 
 	</body>
-</div>
 </div> <!--people-->

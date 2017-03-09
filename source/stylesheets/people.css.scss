@@ -1,14 +1,6 @@
-
-
+//Author: Jenn Alarcon
+//Current Students & Alumni styling
 .people{
-  position: relative;
-  margin: auto;
-
-  hr{
-    width: 1250px;
-  }
-
-
   h2{
     text-align: center;
     font-weight: 400;
@@ -17,12 +9,14 @@
   }
 
   .students{
-    text-align: center;
+      margin: auto;
+      text-align: center;
 
     #title{
       font-weight: 400;
       padding: 20px;
     }
+
     li {
       padding: 6px;
       text-align: center;
@@ -33,18 +27,15 @@
     }
     li:hover {
       background: #eee;
-      cursor: pointer;
+      cursor: crosshair;;
     }
-
   }
 
   /* ALUMNI */
   .alumni{
-    float: right;
-    position: relative;
-    left: -50%;
 
-
+    margin: auto;
+    text-align: center;
     li:hover {
       background: #ededed;
       cursor:crosshair;
@@ -53,15 +44,15 @@
 
     ul{
       list-style: none;
-      position: relative;
-      left: 50%;
+      margin: auto;
+
 
     }
 
     li{
       letter-spacing: .03em;
       color: grey;
-      margin: 0 0 1em 0;
+      margin: 0em 0 1em 0;
       font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
       background-color: #eee;
       font-weight: 100;

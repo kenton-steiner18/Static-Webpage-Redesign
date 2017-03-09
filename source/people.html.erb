@@ -2,15 +2,15 @@
 <% data = YAML::load(File.open('data/people.yml')) %>
 
 
-<div class = "container">
+
 <div class = "people"> <!--people-->
 
 	<body>
 		<!--Students-->
 		<div class = "students">
-			<!-- <h2> Current Students: </h2> -->
+			<h2> Current Students</h2>
 			<ul>
-				<h2> Current Students</h2>
+
 				<% data["currentStudents"].each do |x| %>
 				<li ><%= x %></a></li>
 				<% end %>
@@ -33,4 +33,3 @@
 		</div> <!--Alumni-->
 	</body>
 </div><!--people-->
-</div>
