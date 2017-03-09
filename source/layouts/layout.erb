@@ -20,10 +20,12 @@
     <title>James W. Davis</title>
   </head>
 
+
   <body class="<%= page_classes %>">
     <%= partial "/partials/header"%>
-
+    <div class = "container">
     <%= yield %>
     <%= partial "partials/footer"%>
+  </div>
   </body>
 </html>

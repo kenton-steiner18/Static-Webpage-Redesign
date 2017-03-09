@@ -1,0 +1,12 @@
+<!-- AUTHORED BY: Tony Su 3/8 -->
+
+<!-- Picture section -->
+<div class="pictures">
+		<ul class="picture">
+			<% data.picture.picture.each do |a|%>
+				<img src=<%=a.img%> WIDTH="600"><br>
+				<%=a.title%>
+				<p>
+			<% end %>
+		</ul>
+</div>
