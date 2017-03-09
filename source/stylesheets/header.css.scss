@@ -1,49 +1,49 @@
-
 /* --------
 Stylings for the Top Navigation Bar
 */
 
 /* Set the container for the links */
 #osu_navbar .container {
-  width:960px; 
+  width:960px;
   margin: 0 auto;
-} 
+}
 
 #osu_navbar {
-  clear:both; 
-  margin:0; padding:0; 
+
+  clear:both;
+  margin:0; padding:0;
   background: #eaeaea url(/images/bg-navbar_red.jpg) left bottom repeat-x; overflow:hidden;
   font-size:0.8125em;
-  line-height:1.5; 
+  line-height:1.5;
   font-weight:normal;
 }
 
 
 /* University tag in the top left */
 #osu_navbar p {
-  margin:0; 
+  margin:0;
   padding:0;
 }
 
 #osu_navbar .univ_info {
-  float:left; 
+  float:left;
   padding: 1em 0;
 }
 
 #osu_navbar .univ_name a {
-  height:1.5em; 
-  width:6em; 
-  display:block; 
-  text-indent: -9999em; 
-  background: url(/images/osu_name.png) 0 0 no-repeat; 
+  height:1.5em;
+  width:6em;
+  display:block;
+  text-indent: -9999em;
+  background: url(/images/osu_name.png) 0 0 no-repeat;
 }
 
 
 /* Links displayed in the top right */
 #osu_navbar .univ_links {
-  float:right; 
-  clear:none; 
-  padding: 1em 0 0; 
+  float:right;
+  clear:none;
+  padding: 1em 0 0;
   margin-top:-.05em;
 }
 
@@ -52,13 +52,13 @@ Stylings for the Top Navigation Bar
 #osu_navbar div.links ul {margin: 0 0.1em 0;}
 
 #osu_navbar div.links ul li {
-  list-style:none; 
-  float:left; 
+  list-style:none;
+  float:left;
   margin-left:1em;
 }
 
 #osu_navbar div.links ul li a {
-  color:#333; 
+  color:#333;
   text-decoration: none;
 }
 
@@ -68,10 +68,10 @@ Stylings for the Top Navigation Bar
 /* When the screen width gets 990px, switch to full width instead of fixed size */
 @media only screen and (max-width: 990px) {
   #osu_navbar .container {
-      width:100%; 
-      margin:0 0.2em; 
+      width:100%;
+      margin:0 0.2em;
       min-width:300px;
-  } 
+  }
 
   /* Make container full width */
   #osu_navbar div.container .univ_name a {margin-left:0;}
@@ -82,22 +82,22 @@ Stylings for the Top Navigation Bar
     #osu_navbar div.links ul {margin-top:-2px;}
 
     #osu_navbar div.links ul li {
-      list-style:none; 
-      float:left; 
+      list-style:none;
+      float:left;
       margin-left:.5em;
     }
 
     #osu_navbar div.links ul li a {
-      height:1.5em; 
-      width:1.5em; 
-      display:block; 
-      overflow:hidden; 
+      height:1.5em;
+      width:1.5em;
+      display:block;
+      overflow:hidden;
       text-indent:-999em;
     }
 
     /* Replace each link with a picture from the images folder */
 
-    
+
     #osu_navbar div.links ul li a:hover {text-decoration: none;}
 
     #osu_navbar div.links ul li a.help {background:url(/images/resp-help.png) 0 0 no-repeat;}
@@ -121,13 +121,13 @@ Stylings for the Top Navigation Bar
 /* Website title and links to external sites */
 
 .page-header {
-  width:1250px; 
+  width:1250px;
   margin: 0 auto;
   border-bottom: 0;
   padding-bottom: 0;
   padding-top:10px;
   font-weight: 100;
-  color: gray; 
+  color: gray;
 }
 .site-title {
   padding-top: 10px;
@@ -146,7 +146,7 @@ Stylings for the Top Navigation Bar
 .page-header a {
   margin-right: 0.3em;
   text-decoration: none;
-  color: inherit; 
+  color: inherit;
 }
 
 .page-header a:hover {text-decoration: underline;}
@@ -156,26 +156,26 @@ Stylings for the Top Navigation Bar
 
 /* At 990 px, switch display from fixed mode to fit the screen width*/
 @media only screen and (max-width: 990px) {
-   #main_navbar {width:100%; margin:0 10px; min-width:300px;} 
+   #main_navbar {width:100%; margin:0 10px; min-width:300px;}
 
    /* Make container full width */
   #main_navbar .nav-bar a {margin-left:0;}
 }
 
 #main_navbar {
-  clear:both; 
-  margin:0 auto; 
-  padding:0; 
+  clear:both;
+  margin:0 auto;
+  padding:0;
   font-family:'proximanova', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size:0.23em; 
-  line-height:2.5; 
+  font-size:0.23em;
+  line-height:2.5;
   font-weight:normal;
 }
 
 .nav-bar {width:1010px;}
 
 #main_navbar .nav-bar {
-  width: 1250px; 
+  width: 1250px;
   margin: 0 auto;
   margin-top: 25px;
 }
@@ -184,8 +184,8 @@ Stylings for the Top Navigation Bar
 #main_navbar .pages ul {
     list-style-type: none;
     overflow: hidden;
-    background: #eaeaea url(/images/bg-navbar_red.jpg) 
-    left bottom repeat-x; 
+    background: #eaeaea url(/images/bg-navbar_red.jpg)
+    left bottom repeat-x;
 }
 
 #main_navbar .pages ul li {

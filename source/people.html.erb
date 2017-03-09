@@ -1,36 +1,40 @@
+<% require 'yaml' %>
+<% data = YAML::load(File.open('data/people.yml')) %>
+
 <!DOCTYPE html>
 <head>
 <title><%="James W. Davis"%></title>
 
-<link rel="stylesheet" type="text/css" href="people.css"></link>
+<link rel="stylesheet" type="text/css" href="stylesheets/people.css">
 </head>
 
-<% require 'yaml' %>
-<% data = YAML::load_file(File.join(File.dirname(File.expand_path(__FILE__)), 'data/data.yml')) %>
+<div class = "people"> <!--people-->
 
-<div>
-	<h2> Current Students </h2>
-  	<ul>
-  		<!--Get data needed from yaml file -- >
-  		<% data[:currentStudents].each do |x| %>
-  			<li > <%= x%> </li>
-  		<% end %>
-    </ul> <!--Content-->
+	<body>
+		<!--Students-->
+		<div class = "students">
+			<h2> Current Students: </h2>
+			<ul>
+				<% data["currentStudents"].each do |x| %>
+				<li ><%= x %></a></li>
+				<% end %>
+			</ul>
+		</div><!--Students-->
 
+		<hr></hr>
 
-    <h2> Alumni </h2>
-    <% data[:Alumni].each do |person| %>
-      <h3>  <%= person["name"] %> </h3>
-        <%= person["info"] %> <br/><br/>
-        <% if person["now"] != nil %>
-            <%= person["now"] %>
-        <%end%>
-    <% end %>
+		<div class = "alumni">
+			<h2> Alumni: </h2>
 
+			<% data["Alumni"].each do |person| %>
 
+			<ul>
 
-</div>
-
-
-
-<div> <!--profile-->
+				<li><h3 id = "name"> <%= person["name"] %> </h3>
+					<h4><%= person["info"] %></h4>
+					<h5 id = "now-at"><%= person["now"] %></h5></li>
+					<ul>
+						<% end %>
+					</div> <!--Alumni-->
+				</body>
+			</div><!--people-->

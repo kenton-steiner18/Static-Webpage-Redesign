@@ -1,75 +1,75 @@
---- 
+---
 # CREATED BY: Jenn Alarcon
 # People Page
-? !ruby/symbol Alumni
-: 
-  - 
-    info: "Undergraduate research assistant. Graduated June 2012."
-    name: "Kyle Salberg"
-    now: "Now at Garmin"
-  - 
-    info: "Undergraduate research assistant. Graduated June 2012."
-    name: "Michael Schoenberg"
-    now: "Now at Microsoft"
-  - 
-    info: "Undergraduate research assistant. Graduated June 2012."
-    name: "Ronak Buch"
-    now: "Now at UIUC"
-  - 
-    info: "Ph.D. Thesis: \"Improved Graph-based Clustering with Applications in Computer Vision and Behavior Analysis\", March 2012."
-    name: Streib
-    now: "Post-Doc with Davis)"
-  - 
-    info: "Ph.D. Thesis: \"Multiple Instance Learning for Localization and Tracking of Persistent Targets\", August 2011."
-    name: "Karthik Sankaranarayanan"
-    now: "Now at IBM India"
-  - 
-    info: "MS Thesis: \"Tracking and Activity Analysis in Wide Area Aerial Surveillance Video\", August 2011."
-    name: "Ryan Feather"
-    now: ~
-  - 
-    info: "MS Thesis: \"Detecting Behavioral Zones in Local and Global Camera Views\", June 2011."
-    name: "Matt Nedrich"
-    now: "Now at Intel"
-  - 
-    info: "Ph.D. Thesis: \"Occlusion Recovery and Reasoning for 3D Surveillance\", August 2009."
-    name: "Mark Keck"
-    now: "Now at BAE"
-  - 
-    info: "Undergraduate research assistant. Graduated March 2009. (Now at Numerica)"
-    name: "Karl Salva"
-  - 
-    info: "Ph.D. Thesis: \"Layered Tracker Switching for Visual Surveillance\", August 2008. (Now at STI - Omron Scientific Technologies)"
-    name: "Ambrish Tyag"
-  - 
-    info: "Ph.D. Thesis: \"Simultaneous Object Detection and Segmentation using Top-down and Bottom-up Processing\", November 2007."
-    name: "Vinay Sharma"
-    now: "Now at Texas Instruments"
-  - 
-    info: "Ph.D. Thesis: \"Extracting Key Features for Analysis and Recognition in Computer Vision\", February 2006."
-    name: "Hui Gao"
-    now: "Now at Microsoft"
-  - 
-    info: "MS Thesis: \"An Adaptive Focus-of-Attention Model for Video Surveillance and Monitoring\", August 2006."
-    name: "Alex Morison"
-    now: "Now at OSU/AFRL"
-  - 
-    info: "MS Thesis: \"Automatic Temporal Segmentation of Human Actions\", June 2003."
-    name: "Vignesh Kannappan"
-    now: "Now at Microsoft"
-  - 
-    info: "MS Thesis: \"Computer Analysis and Recognition of Walking Movements\", June 2002."
-    name: "Stephanie Taylor"
-    now: ~
-  - 
-    info: "Undergraduate Honors Thesis: \"Human-Content Video Coding\", March 2002."
-    name: "Robin Tan"
-    now: ~
-? !ruby/symbol currentStudents
-: 
+
+currentStudents:
   - "Joe Barker"
   - "Manjari Akella"
   - "Ryan Niemocienski"
   - "Dan Marchese"
   - "Jeremy Ledonne"
   - "Daniya Zamalieva"
+
+Alumni:
+  -
+    info: "Undergraduate research assistant. Graduated June 2012."
+    name: "Kyle Salberg"
+    now: "Now at Garmin"
+  -
+    info: "Undergraduate research assistant. Graduated June 2012."
+    name: "Michael Schoenberg"
+    now: "Now at Microsoft"
+  -
+    info: "Undergraduate research assistant. Graduated June 2012."
+    name: "Ronak Buch"
+    now: "Now at UIUC"
+  -
+    info: "Ph.D. Thesis: \"Improved Graph-based Clustering with Applications in Computer Vision and Behavior Analysis\", March 2012."
+    name: Streib
+    now: "Post-Doc with Davis)"
+  -
+    info: "Ph.D. Thesis: \"Multiple Instance Learning for Localization and Tracking of Persistent Targets\", August 2011."
+    name: "Karthik Sankaranarayanan"
+    now: "Now at IBM India"
+  -
+    info: "MS Thesis: \"Tracking and Activity Analysis in Wide Area Aerial Surveillance Video\", August 2011."
+    name: "Ryan Feather"
+    now: ""
+  -
+    info: "MS Thesis: \"Detecting Behavioral Zones in Local and Global Camera Views\", June 2011."
+    name: "Matt Nedrich"
+    now: "Now at Intel"
+  -
+    info: "Ph.D. Thesis: \"Occlusion Recovery and Reasoning for 3D Surveillance\", August 2009."
+    name: "Mark Keck"
+    now: "Now at BAE"
+  -
+    info: "Undergraduate research assistant. Graduated March 2009. (Now at Numerica)"
+    name: "Karl Salva"
+  -
+    info: "Ph.D. Thesis: \"Layered Tracker Switching for Visual Surveillance\", August 2008. (Now at STI - Omron Scientific Technologies)"
+    name: "Ambrish Tyag"
+  -
+    info: "Ph.D. Thesis: \"Simultaneous Object Detection and Segmentation using Top-down and Bottom-up Processing\", November 2007."
+    name: "Vinay Sharma"
+    now: "Now at Texas Instruments"
+  -
+    info: "Ph.D. Thesis: \"Extracting Key Features for Analysis and Recognition in Computer Vision\", February 2006."
+    name: "Hui Gao"
+    now: "Now at Microsoft"
+  -
+    info: "MS Thesis: \"An Adaptive Focus-of-Attention Model for Video Surveillance and Monitoring\", August 2006."
+    name: "Alex Morison"
+    now: "Now at OSU/AFRL"
+  -
+    info: "MS Thesis: \"Automatic Temporal Segmentation of Human Actions\", June 2003."
+    name: "Vignesh Kannappan"
+    now: "Now at Microsoft"
+  -
+    info: "MS Thesis: \"Computer Analysis and Recognition of Walking Movements\", June 2002."
+    name: "Stephanie Taylor"
+    now: ""
+  -
+    info: "Undergraduate Honors Thesis: \"Human-Content Video Coding\", March 2002."
+    name: "Robin Tan"
+    now: ""
