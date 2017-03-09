@@ -1,0 +1,27 @@
+<div class="container">
+	<div class="tv_video">
+		<h1><%= data.media.tv_and_video.title %></h1>
+		<!-- Create an unordered list of all tv and video media events -->
+		<ul>
+			<%= partial "partials/print_simple_list", locals: {list: data.media.tv_and_video.list} %>
+		</ul>
+	</div>
+	
+	<div class="radio">
+		<h1><%= data.media.radio.title %></h1>
+		<!-- Create an unordered list of all radio events -->
+		<ul>
+			<%= partial "partials/print_simple_list", locals: {list: data.media.radio.list} %>
+		</ul>
+	</div>
+	<div class="print">
+		<h1><%= data.media.print.title %></h1>
+		<!-- create an unordered list of all his prints -->
+		<ul>
+			<% data.media.print.list.each do |item|%>
+				<% full_text = item.title + ': ' +  item.text %>
+				<li><%= full_text %></li>
+			<% end %>
+		</ul>
+	</div>
+</div>
