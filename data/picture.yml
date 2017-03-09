@@ -1,43 +1,38 @@
----
+--- 
+#Created by Tony Su 3/4
+#Validated by Kenton Steiner 3/9
+picture: 
+  - 
+    img: Media/KarthikMatt2013.jpg
+    title: "Karthik and Matt back for a visit (October 21, 2013)."
+  - 
+    img: Media/2012-lab.jpg
+    title: "Davis lab out for lunch (June 2012)."
+  - 
+    img: Media/Kevin-1.JPG
+    title: "<Kevin signing \"the Ph.D. hat\" (April 2012).>"
+  - 
+    img: Media/Kevin-2.JPG
+    title: "<Kevin wearing \"the Ph.D. hat\" (April 2012).>"
+  - 
+    img: Media/AU11_Orientation--Davis-2.jpg
+    title: "Prof. Davis speaking at AU11 orientation."
+  - 
+    img: Media/Karthik-1.jpg
+    title: "<Karthik signing \"the Ph.D.\" hat>"
+  - 
+    img: Media/Karthik-2.jpg
+    title: "<Karthik wearing \"the Ph.D.\" hat>"
+  - 
+    img: Media/Davis-lab-2011.JPG
+    title: "Current and past members of the lab at \"Garden of the Gods\" (Colorado Springs), 2011. Pictured (left-to-right): Kevin Streib, Vinay Sharma, Karthik Sankaranarayanan, Prof. Davis, Ambrish Tyagi, Mark Keck."
+  - 
+    img: Media/CityBeat09.jpg
+    title: "Matt and Kevin (far right) featured in picture and news article on AFRL research."
+  - 
+    img: Media/lab2009.jpg
+    title: "2009 lab photo. Pictured (left-to-right): Billy Hartmann, Prof. Davis, Ambrish Tyagi, Matt Nedrich, Karthik Sankaranarayanan, Karl Salva, Mark Keck."
+  - 
+    img: Media/lab2007.jpg
+    title: "2007 lab photo. Pictured (left-to-right): Billy Hartmann, Mark Keck, Hui Gao (alum visiting) Prof. Davis, Ambrish Tyagi, Vinay Sharma."
 
-# CREATED BY: Tony Su 3/4
-# Pictures
-
-picture:
-
-	-title: "Karthik and Matt back for a visit (October 21, 2013)."
-	-img: "Media/KarthikMatt2013.jpg"
-
-	-title: "Davis lab out for lunch (June 2012)."
-	-img: "Media/2012-lab.jpg"
-
-	-title: "Kevin signing "the Ph.D. hat" (April 2012)."
-	-img: "Media/Kevin-1.JPG"
-
-	-title: "Kevin wearing "the Ph.D. hat" (April 2012)."
-	-img: "Media/Kevin-2.JPG"
-
-	-title: "Prof. Davis speaking at AU11 orientation."
-	-img: "Media/AU11_Orientation--Davis-2.jpg"
-
-	-title: "Karthik signing "the Ph.D. hat"
-	-img: "Media/Karthik-1.jpg"
-
-	-title: "Karthik wearing "the Ph.D. hat"
-	-img: "Media/Karthik-2.jpg"
-
-	-title: >
-		"Current and past members of the lab at "Garden of the Gods" (Colorado Springs), 2011."
-		"Pictured (left-to-right): Kevin Streib, Vinay Sharma, Karthik Sankaranarayanan, Prof. Davis, Ambrish Tyagi, Mark Keck."
-	-img: "Media/Davis-lab-2011.JPG"
-
-	-title: "Matt and Kevin (far right) featured in picture and news article on AFRL research."
-	-img: "Media/CityBeat09.jpg"
-
-	-title: "2009 lab photo. Pictured (left-to-right): Billy Hartmann, Prof. Davis, Ambrish Tyagi, Matt Nedrich, Karthik Sankaranarayanan, Karl Salva, Mark Keck."
-	-img: "Media/lab2009.jpg"
-
-	-title: "2007 lab photo. Pictured (left-to-right): Billy Hartmann, Mark Keck, Hui Gao (alum visiting) Prof. Davis, Ambrish Tyagi, Vinay Sharma."
-	-img: "Media/lab2007.jpg"
-
-...
