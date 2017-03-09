@@ -1,90 +1,106 @@
+
+
 .people{
+  position: relative;
+  margin: auto;
 
-
-  width:1250px;
-  margin: 0 auto;
-
+  hr{
+    width: 1250px;
+  }
 
 
   h2{
-    text-align: left;
-    font: 150 28px 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    //font-style: italic;
-    color:#bb0000;
-
+    text-align: center;
+    font-weight: 400;
+    margin: .1em auto;
+    color: #666666;
   }
 
   .students{
-
     text-align: center;
 
+    #title{
+      font-weight: 400;
+      padding: 20px;
+    }
     li {
       padding: 6px;
-      margin: 1px;
-      font: 200 20px/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
       text-align: center;
       display: inline-block;
-      margin-right: 0px;
+      font-weight: 100;
+      margin: .1em auto;
 
     }
     li:hover {
       background: #eee;
       cursor: pointer;
     }
-
 
   }
 
-
-
-
-/* ALUMNI */
+  /* ALUMNI */
   .alumni{
-    text-align: center;
+    float: right;
+    position: relative;
+    left: -50%;
+
 
     li:hover {
-      background: #eee;
-      cursor: pointer;
+      background: #ededed;
+      cursor:crosshair;
+
     }
 
     ul{
       list-style: none;
+      position: relative;
+      left: 50%;
+
     }
+
     li{
       letter-spacing: .03em;
       color: grey;
       margin: 0 0 1em 0;
-      font-family: Georgia, Times, "Times New Roman", serif;
+      font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
       background-color: #eee;
+      font-weight: 100;
+      padding: 10px;
 
+    }
+
+    body {
+      background: #fafafa;
+      font: 2em 'Helvetica Neue', helvetica, arial, sans-serif;
+    }
+
+    h3,h4,h5{
+      margin:0;
+      padding:0px;
     }
 
 
     #name{
-
-      font-align: left;
+      text-align: center;
       font-size: 1.75em;
-      font: 200 28px/1.5 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font:'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 200;
       font-style: italic;
-      text-transform: capitalize;
       line-height: 1em;
       letter-spacing: .07em;
-
-      padding-bottom: 0em;
-
-    }
-    body {
-      background: #fafafa;
-      color: #444;
-      font: 2em 'Helvetica Neue', helvetica, arial, sans-serif;
-
-
-    }
-
-
-    #now-at{
       color: #C8AA78;
 
+    }
+
+    #now-at{
+      text-align: center;
+      color: #bb0000;
+      font-weight: 400;
+    }
+
+    #info{
+      text-align: center;
+      font-weight: 300;
     }
   }
 

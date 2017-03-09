@@ -10,6 +10,8 @@
     <title><%= current_page.data.title || "James W. Davis" %></title>
     <%= stylesheet_link_tag "site" %>
     <%= stylesheet_link_tag "header" %>
+    <%= stylesheet_link_tag "people" %>
+    <%= stylesheet_link_tag "teaching" %>
     <%= stylesheet_link_tag "footer" %>
     <%= javascript_include_tag "site" %>
     <meta charset="utf-8">
@@ -20,7 +22,7 @@
 
   <body class="<%= page_classes %>">
     <%= partial "/partials/header"%>
-  
+
     <%= yield %>
     <%= partial "partials/footer"%>
   </body>

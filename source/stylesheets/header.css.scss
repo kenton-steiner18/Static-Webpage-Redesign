@@ -1,19 +1,15 @@
+
 /* --------
 Stylings for the Top Navigation Bar
 */
 
 /* Set the container for the links */
 #osu_navbar .container {
-<<<<<<< HEAD
   width:960px;
-=======
-  width:1250px; 
->>>>>>> refs/remotes/origin/master
   margin: 0 auto;
 }
 
 #osu_navbar {
-
   clear:both;
   margin:0; padding:0;
   background: #eaeaea url(/images/bg-navbar_red.jpg) left bottom repeat-x; overflow:hidden;

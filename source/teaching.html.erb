@@ -1,0 +1,32 @@
+<% require 'yaml' %>
+<% data = YAML::load(File.open('data/teaching.yml')) %>
+
+
+<div class = "container">
+<div class = "people"> <!--people-->
+
+	<body>
+		<!--Students-->
+		<div class = "teaching">
+
+
+				<% data["teaching"].each do |section| %>
+
+						<h2> YEAR: <%= section["year"] %> </h2>
+
+						<% section["classes"].each do |info| %>
+
+								<h3> <%=info["title"]%></h3>
+								<ul>
+								<li> <%=info["class"]%></li>
+								<li> <%=info["season"]%></li> </br>
+										</ul>
+								<% end %>
+				<% end %>
+
+		</div><!--Students-->
+
+
+	</body>
+</div>
+</div> <!--people-->
