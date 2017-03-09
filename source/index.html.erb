@@ -1,8 +1,49 @@
-<h1>Appointments</h1>
-<ul>
-	<% data.home.appointments.each do |a|%>
-	<li><%= a.dept%></li>
-	<% end %>
-</ul>
+<!-- AUTHORED BY: Sunny Patel 3/8 -->
+<div class="container">
+	<!-- ABOUT ME section -->
+	<div class="about_me">
+		<h1>About Me</h1>
+		<img src=<%= data.home.intro.img %> id="davis_picture" alt="Jim Davis"/>
+		<p>
+			<a href=<%= data.home.intro.website %>><span><%= data.home.intro.name %></span></a><br>
+			<a href=<%= data.home.intro.email_link %>><%= data.home.intro.email %><br></a>
+			<%= data.home.intro.credential %><br>
+			<%= data.home.intro.employer %><br>
+			<%= data.home.intro.office %><br>
+			<% data.home.intro.phone_numbers.each do |item| %>
+				<em><%= item.title %>:</em> <%= item.num %> |
+			<% end %>
+			<br>
+			<a href=<%= data.home.intro.directions_link %>>Find me</a>
+
+		</p>
+	</div>
+	<!-- APPOINTMENTS section -->
+	<div class="appointments">
+		<h1>Appointments</h1>
+		<ul class="home">
+			<% data.home.appointments.each do |a|%>
+			<li>
+				<%= a.text%>,
+				<a href=<%= a.link%>><%= a.dept%></a>
+				[<%= a.location%>]
+			</li>
+			<% end %>
+		</ul>
+	</div>
+	<!-- RESEARCH INTERESTS sections -->
+	<div class="research_interests">
+		<h1><%= data.home.research_interests.title%></h1>
+		<img src=<%= data.home.research_interests.img%>  alt="Video Surveillance" id="video_surveillance"/>
+		<p>
+			<%= data.home.research_interests.text %><br><br>
+			<strong><em>Technical Areas:</em></strong>
+			<% data.home.research_interests.technical_areas.each do |area| %>
+			<a href=<%= area.link %>><%= area.text %></a>
+			<% end %>
+		</p>
+	</div>
+</div>
+
 
 

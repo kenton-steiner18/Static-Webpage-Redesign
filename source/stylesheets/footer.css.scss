@@ -2,14 +2,16 @@
 footer {
   clear:both;
   margin-top: 2em;
+  background-color: rgb(133, 133, 133);
 }
 footer a {
   text-decoration: none;
 }
 footer p {
-  width: 100%;
+  width: 1250px;
+  margin: 0 auto;
   padding: 1em;
-  background-color: rgb(133, 133, 133);
+
   color: white;
 }
 footer strong {
