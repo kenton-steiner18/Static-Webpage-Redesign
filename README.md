@@ -11,11 +11,13 @@ First, you need to install the ruby gem by using "bundle install". Then, you nee
 * Documentation: Raphael Huang
 
 ### Contributions
+<<<<<<< HEAD
 Please list who did what for each part of the project.
 Also list if people worked together (pair programmed) on a particular section.
 
 
-Tony Su:
+
+Tony Su: Write the picture.yml and pictures.html.erb.
 Raphael Huang:
 Sunny Patel:
 Jennifer Alarcon: People & Teaching YML files. People & teaching webpages.
