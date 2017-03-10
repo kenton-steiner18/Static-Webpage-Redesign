@@ -2,13 +2,6 @@
 /* --------
 Stylings for the Top Navigation Bar
 */
-
-/* Set the container for the links */
-#osu_navbar .container {
-  width:960px;
-  margin: 0 auto;
-}
-
 #osu_navbar {
   clear:both;
   margin:0; padding:0;
@@ -64,57 +57,6 @@ Stylings for the Top Navigation Bar
 
 #osu_navbar div.links ul li a:hover {text-decoration: underline;}
 
-
-/* When the screen width gets 990px, switch to full width instead of fixed size */
-@media only screen and (max-width: 990px) {
-  #osu_navbar .container {
-      width:100%;
-      margin:0 0.2em;
-      min-width:300px;
-  }
-
-  /* Make container full width */
-  #osu_navbar div.container .univ_name a {margin-left:0;}
-}
-
-/* At 600px, switch from words for links in the top right to images */
-@media only screen and (max-width: 600px) {
-    #osu_navbar div.links ul {margin-top:-2px;}
-
-    #osu_navbar div.links ul li {
-      list-style:none;
-      float:left;
-      margin-left:.5em;
-    }
-
-    #osu_navbar div.links ul li a {
-      height:1.5em;
-      width:1.5em;
-      display:block;
-      overflow:hidden;
-      text-indent:-999em;
-    }
-
-    /* Replace each link with a picture from the images folder */
-
-
-    #osu_navbar div.links ul li a:hover {text-decoration: none;}
-
-    #osu_navbar div.links ul li a.help {background:url(/images/resp-help.png) 0 0 no-repeat;}
-
-    #osu_navbar div.links ul li a.buckeyelink {background:url(/images/resp-buckeyelink.png) 0 0 no-repeat;}
-
-    #osu_navbar div.links ul li a.map {background:url(/images/resp-map.png) 0 0 no-repeat;}
-
-    #osu_navbar div.links ul li a.findpeople {background:url(/images/resp-findpeople.png) 0 0 no-repeat;}
-
-    #osu_navbar div.links ul li a.webmail {background:url(/images/resp-webmail.png) 0 0 no-repeat;}
-
-    #osu_navbar div.links ul li a.cseportal {background:url(/images/resp-buckeyelink-network.png) 0 0 no-repeat;}
-
-    #osu_navbar div.links ul li a.search {background:url(/images/resp-search.png) 0 0 no-repeat;}
-}
-
 /*-----------------------------------------------*/
 /* Display the title of the webpage and the Ohio State image*/
 
@@ -128,6 +70,10 @@ Stylings for the Top Navigation Bar
   padding-top:10px;
   font-weight: 100;
   color: gray;
+}
+
+.picture {
+  float: right;
 }
 .site-title {
   padding-top: 10px;
@@ -153,14 +99,6 @@ Stylings for the Top Navigation Bar
 
 /*--------------------------------*/
 /* Display the webpage navigation bar */
-
-/* At 990 px, switch display from fixed mode to fit the screen width*/
-@media only screen and (max-width: 990px) {
-   #main_navbar {width:100%; margin:0 10px; min-width:300px;}
-
-   /* Make container full width */
-  #main_navbar .nav-bar a {margin-left:0;}
-}
 
 #main_navbar {
   clear:both;
