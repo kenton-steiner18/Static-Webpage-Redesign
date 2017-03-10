@@ -1,32 +1,14 @@
+/*Jennifer Alarcon, created: March 8th*/
 
-
-
-.teaching{
-
-  position: relative;
-  margin: auto;
-
-
-  h2{
-    text-align: left;
-    font-weight: 300;
-  	margin: .1em auto;
-    color: #666666;
+//Underline the title tag
+  #title{
+    text-decoration: underline;
   }
 
-      ul{
-        list-style: none;
-
-      }
-
-      h2{
-        padding-top: 50px;
-        margin: 0px;
-      }
-
-      h3{
-        padding: 0;
-        margin: 0;
-      }
-
-}
+//text color and styling for all elements on teaching page
+  #teaching{
+    text-align: center;
+    font-weight: 300;
+    color: #666666;
+    padding-top: 15px;
+  }
