@@ -11,6 +11,7 @@
     <%= stylesheet_link_tag "site" %>
     <%= stylesheet_link_tag "header" %>
     <%= stylesheet_link_tag "people" %>
+    <%= stylesheet_link_tag "image" %>
     <%= stylesheet_link_tag "teaching" %>
     <%= stylesheet_link_tag "footer" %>
     <%= javascript_include_tag "site" %>
@@ -25,7 +26,7 @@
     <%= partial "/partials/header"%>
     <div class = "container">
     <%= yield %>
+    </div>
     <%= partial "partials/footer"%>
-  </div>
   </body>
 </html>

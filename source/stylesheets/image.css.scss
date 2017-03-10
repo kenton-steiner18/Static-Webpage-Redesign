@@ -1,0 +1,53 @@
+/*Author: Jennifer Alarcon created March 9th*/
+
+
+.display-pictures{
+
+//Styling when hovering
+.overlay {
+  //positioned relative to the nearest positioned ancestor
+  position: absolute;
+
+  //For the info when hovering
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  //at 0 until hovered over
+  opacity: 0;
+  //hovering display same as image size-width
+  width: 600px;
+  transition: .5s ease;
+  background-color: #eee;
+}
+
+//Styling for the actual image
+.image {
+  display: block;
+  width: 600px;
+}
+
+
+//Opcatitiy when hovering image
+.picture-container:hover .overlay {
+  opacity: .9;
+  cursor: crosshair;
+  text-align: center;
+}
+
+//The picture information styling
+.pic-text {
+  font-weight: 300;
+  font-size: 150%;
+  padding-top: 100px;
+  text-align: center;
+  width: 600px;
+
+}
+//positioned relative to its normal position
+.picture-container {
+  position: relative;
+  width: 50%;
+}
+
+}

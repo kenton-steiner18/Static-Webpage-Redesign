@@ -1,12 +1,18 @@
 <!-- AUTHORED BY: Tony Su 3/8 -->
+<!-- Modified BY: Jenn Alarcon Su 3/9 -->
 
-<!-- Picture section -->
-<div class="pictures">
-		<ul class="picture">
-			<% data.picture.picture.each do |a|%>
-				<img src=<%=a.img%> WIDTH="600"><br>
-				<%=a.title%>
-				<p>
-			<% end %>
-		</ul>
-</div>
+
+<div class = "display-pictures">
+	<!--go through all images-->
+<% data.picture.picture.each do |a|%>
+</br>
+<div  class="picture-container"> <!--for one image-->
+	<img class = "image" src= <%=a.img%> > </img>
+	<!--when hovering over display picture information-->
+	<div class="overlay">
+		<div class="pic-text" text-align: centr><%=a.title%></div>
+	</div> <!--overlay-->
+</div><!--picture-container-->
+</br>
+<% end %>
+</div> <!--display-pictures-->
