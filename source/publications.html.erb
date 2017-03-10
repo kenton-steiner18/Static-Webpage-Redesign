@@ -1,0 +1,33 @@
+<!-- AYTHORED BY: Raphael Huang 3/8 -->
+
+<div class="container">
+  	<h1>Publications</h1>
+	<div class = "publication">
+    		<% data.publications.publication.each do |a|%>
+			<ul>
+			<li><em><%= a.name%></em></li>
+			</ul>
+	  		<ul><%= a.author%></ul>
+	  		<ul><cite><%= a.publisher%></cite><%= a.time%></ul>
+
+			<% if a.option != nil %>
+				<ul><%= a.option %></ul>
+			<% end %>
+
+	 		<% if ! a.tag.nil? %>
+ 	    			<ul>[<a href=<%= a.link%>><%= a.tag%></a> ]</ul>
+			<% end %>
+
+			<% if ! a.tag2.nil? %>
+ 	    			<ul>[<a href=<%= a.link2%>><%= a.tag2%></a> ]</ul>
+			<% end %>
+
+			<% if a.award != nil %>
+				<ul>[<strong><%= a.award %></strong>]</ul>
+			<% end %>
+			<br>
+		<% end %>
+	</div>
+
+</div>
+
