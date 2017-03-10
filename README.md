@@ -11,7 +11,6 @@ First, you need to install the ruby gem by using "bundle install". Then, you nee
 * Documentation: Raphael Huang
 
 ### Contributions
-<<<<<<< HEAD
 Please list who did what for each part of the project.
 Also list if people worked together (pair programmed) on a particular section.
 
@@ -24,3 +23,5 @@ Jennifer Alarcon: People & Teaching YML files. People & teaching webpages.
 Kenton Steiner:
 
 ### Testing Plan
+
+To test our webpage, you can compare it with the offical webpage of Professor [James Davis](http://web.cse.ohio-state.edu/~jwdavis/). For example, you can go the the picture link on the offical webpage and compare it with ours.
