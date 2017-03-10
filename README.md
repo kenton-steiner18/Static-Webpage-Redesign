@@ -11,7 +11,7 @@ First, you need to install the ruby gem by using "bundle install". Then, you nee
 * Documentation: Raphael Huang
 
 ### Contributions
-Tony Su: 
+Tony Su: Write the picture.yml and pictures.html.erb. 
 Raphael Huang:
 Sunny Patel:
 Jennifer Alarcon:
