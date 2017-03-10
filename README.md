@@ -1,6 +1,9 @@
 # Project 4
 ### Static Web Design
 
+### Program Execution
+First, you need to install the ruby gem by using "bundle install". Then, you need to run middleman by using "bundle exec middleman server". You will see a message that said "Inspect your site configuration at "http://localhost:4567/"". Open any web browser and enter http://localhost:4567. You will see the personal webpage for James Davis.
+
 ### Roles
 * Overall Project Manager: Tony Su
 * Coding Manager: Sunny Patel
@@ -11,4 +14,11 @@
 Please list who did what for each part of the project.
 Also list if people worked together (pair programmed) on a particular section.
 
-Jennifer Alarcon - People & Teaching Yaml file, People and Teaching webpages
+
+Tony Su:
+Raphael Huang:
+Sunny Patel:
+Jennifer Alarcon: People & Teaching YML files. People & teaching webpages.
+Kenton Steiner:
+
+### Testing Plan
