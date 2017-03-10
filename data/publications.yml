@@ -7,7 +7,7 @@ publication:
   - 
     name: "Temporally-Dependent Dirichlet Process Mixtures for Egocentric Video Segmentation"
     author: "J. Barker and J. Davis"
-    publisher: "IEEE Workshop on Egocentric Vision,"
+    publisher: "IEEE Workshop on Egocentric Vision, "
     time: "June 2014."
     link: ~
     tag: ~
@@ -18,8 +18,8 @@ publication:
   - 
     name: "Summarizing High-Level Scene Behavior"
     author: "K. Streib and J. Davis"
-    publisher: "Machine Vision and Applications Journal,"
-    time: 2013.0
+    publisher: "Machine Vision and Applications Journal, "
+    time: "2013."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/MVA-13.pdf"
     tag: paper
     link2: ~
@@ -29,7 +29,7 @@ publication:
   - 
     name: "One-Class Multiple Instance Learning and Applications to Target Tracking"
     author: "K. Sankaranarayanan and J. Davis"
-    publisher: "Asian Conference on Computer Vision,"
+    publisher: "Asian Conference on Computer Vision, "
     time: "November 2012."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ACCV-12.pdf"
     tag: paper
@@ -40,7 +40,7 @@ publication:
   - 
     name: "Segmentation and Scene Modeling for MIL-based Target Localization"
     author: "K. Sankaranarayanan and J. Davis"
-    publisher: "International Conference on Pattern Recognition,"
+    publisher: "International Conference on Pattern Recognition, "
     time: "November 2012."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ICPR-12.pdf"
     tag: paper
@@ -51,7 +51,7 @@ publication:
   - 
     name: "Detecting Behavioral Zones in Local and Global Camera Views"
     author: "M. Nedrich and J. Davis"
-    publisher: "Machine Vision and Applications,"
+    publisher: "Machine Vision and Applications, "
     time: "Vol. 23, 2012, pp. 1-27."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/MVA2012.pdf"
     tag: paper
@@ -62,7 +62,7 @@ publication:
   - 
     name: "Recovery and Reasoning about Occlusions in 3D using Few Cameras with Applications to 3D Tracking"
     author: "M. Keck and J. Davis"
-    publisher: "International Journal of Computer Vision,"
+    publisher: "International Journal of Computer Vision, "
     time: "Vol. 95, Issue 3, 2011, pp. 240-264."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/IJCV2011.pdf"
     tag: paper
@@ -73,8 +73,8 @@ publication:
   - 
     name: "Activity Analysis in Wide-Area Surveillance Video"
     author: "R. Feather and J. Davis"
-    publisher: "OSU Dept. Computer Science and Engineering Technical Report OSU-CISRC-11/11-TR34,"
-    time: 2011.0
+    publisher: "OSU Dept. Computer Science and Engineering Technical Report OSU-CISRC-11/11-TR34, "
+    time: "2011."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/OSU-CISRC-11-11-TR34.pdf"
     tag: paper
     link2: ~
@@ -95,7 +95,7 @@ publication:
   - 
     name: "Using Ripley's K-function to Improve Graph-Based Clustering Techniques"
     author: "K. Streib and J. Davis"
-    publisher: "IEEE Conference on Computer Vision and Pattern Recognition,"
+    publisher: "IEEE Conference on Computer Vision and Pattern Recognition, "
     time: "June 2011."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/cvpr11a.pdf"
     tag: paper
@@ -106,7 +106,7 @@ publication:
   - 
     name: "Camera Control and Geo-Registration for Video Sensor Networks"
     author: "J. Davis"
-    publisher: "Distributed Video Sensor Networks,"
+    publisher: "Distributed Video Sensor Networks, "
     time: "B. Bhanu (ed.), Springer, January 2011."
     link: ~
     tag: ~
@@ -127,7 +127,7 @@ publication:
     award: "Best Paper Award"
     name: "Learning Scene Entries and Exits using Coherent Motion Regions"
     author: "M. Nedrich and J. Davis"
-    publisher: "International Symposium on Visual Computing,"
+    publisher: "International Symposium on Visual Computing, "
     time: "November 2010."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/isvc10b.pdf"
     tag: paper
@@ -138,7 +138,7 @@ publication:
   - 
     name: "Exploiting Multiple Cameras for Environmental Pathlets"
     author: "K. Streib and J. Davis"
-    publisher: "International Symposium on Visual Computing,"
+    publisher: "International Symposium on Visual Computing, "
     time: "November 2010."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/isvc10c.pdf"
     tag: paper
@@ -149,7 +149,7 @@ publication:
   - 
     name: "PTZ Camera Modeling and Panoramic View Generation via Focal Plane Mapping"
     author: "K. Sankaranarayanan and J. Davis"
-    publisher: "Asian Conference on Computer Vision,"
+    publisher: "Asian Conference on Computer Vision, "
     time: "November 2010."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/accv10.pdf"
     tag: paper
@@ -160,7 +160,7 @@ publication:
   - 
     name: "Learning Directed Intention-driven Activities using Co-Clustering"
     author: "K. Sankaranarayanan and J. Davis"
-    pulisher: "IEEE Conference on Advanced Video and Signal Based Surveillance,"
+    pulisher: "IEEE Conference on Advanced Video and Signal Based Surveillance, "
     time: "August 2010."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/avss10b.pdf"
     tag: paper
@@ -171,7 +171,7 @@ publication:
   - 
     name: "Extracting Pathlets From Weak Tracking Data"
     author: "K. Streib and J. Davis"
-    publisher: "IEEE Conference on Advanced Video and Signal Based Surveillance,"
+    publisher: "IEEE Conference on Advanced Video and Signal Based Surveillance, "
     time: "August 2010."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/avss10a.pdf"
     tag: paper
@@ -183,7 +183,7 @@ publication:
     name: "Geo-registration and Interactive Control for Distributed Camera Networks"
     author: "M. Nedrich, K. Sankaranarayanan, and J. Davis"
     publisher: "OSU Dept. Computer Science and Engineering Technical Report OSU-CISRC-6/10-TR13,"
-    time: 2010.0
+    time: "2010."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/OSU-CISRC-6-10-TR13.pdf"
     tag: paper
     link2: ~
@@ -193,7 +193,7 @@ publication:
   - 
     name: "How Panoramic Visualization can Support Human Supervision of Intelligent Surveillance"
     author: "A. Morison, D. Woods, and J. Davis"
-    publisher: "Annual Meeting of the Human Factors and Ergonomics Society,"
+    publisher: "Annual Meeting of the Human Factors and Ergonomics Society, "
     time: "October 2009."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/HFES09.pdf"
     tag: paper
@@ -204,7 +204,7 @@ publication:
   - 
     name: "Human Detection and Tracking"
     author: "J. Davis, V. Sharma, A. Tyagi, and M. Keck"
-    publisher: "Encyclopedia of Biometrics,"
+    publisher: "Encyclopedia of Biometrics, "
     time: "S. Li (ed.), Springer, July 2009."
     link: ~
     tag: ~
@@ -215,7 +215,7 @@ publication:
   - 
     name: "A Feature-Selection Approach to Fusing Electro-Optical and IR Imagery"
     author: "V. Sharma and J. Davis"
-    publisher: "SPIE Newsroom: Electronic Imaging & Signal Processing,"
+    publisher: "SPIE Newsroom: Electronic Imaging & Signal Processing, "
     time: "February 2009."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/SPIE09.pdf"
     link2: "http://spie.org/x33833.xml?highlight=x2410&ArticleID=x33833"
@@ -226,7 +226,7 @@ publication:
   - 
     name: "Feature-Level Fusion for Object Segmentation Using Mutual Information"
     author: "V. Sharma and J. Davis"
-    publisher: "Book chapter in Augmented Vision Perception in Infrared,"
+    publisher: "Book chapter in Augmented Vision Perception in Infrared, "
     time: "Springer, December 2008, pp. 295-319."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/avpi08.pdf"
     tag: paper
@@ -248,7 +248,7 @@ publication:
   - 
     name: "3D Occlusion Recovery using Few Cameras"
     author: "M. Keck and J. Davis"
-    publisher: "IEEE Conference on Computer Vision and Pattern Recognition,"
+    publisher: "IEEE Conference on Computer Vision and Pattern Recognition, "
     time: "June 2008."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/cvpr08-a.pdf"
     tag: paper
@@ -259,7 +259,7 @@ publication:
   - 
     name: "A Recursive Filter For Linear Systems on Riemannian Manifolds"
     author: "A. Tyagi and J. Davis"
-    publisher: "IEEE Conference on Computer Vision and Pattern Recognition,"
+    publisher: "IEEE Conference on Computer Vision and Pattern Recognition, "
     time: "June 2008."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/cvpr08-b.pdf"
     tag: paper
@@ -270,7 +270,7 @@ publication:
   - 
     name: "An Efficient Active Camera Model for Video Surveillance"
     author: "K. Sankaranarayanan and J. Davis"
-    publisher: "IEEE Workshop on Applications of Computer Vision,"
+    publisher: "IEEE Workshop on Applications of Computer Vision, "
     time: "January 2008."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/wacv08.pdf"
     tag: paper
@@ -281,7 +281,7 @@ publication:
   - 
     name: "A Context-Based Tracker Switching Framework"
     author: "A. Tyagi and J. Davis"
-    publisher: "IEEE Workshop on Motion and Video Computing,"
+    publisher: "IEEE Workshop on Motion and Video Computing, "
     time: "January 2008."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/wmvc08a.pdf"
     tag: paper
@@ -292,7 +292,7 @@ publication:
   - 
     name: "Steepest Descent For Efficient Covariance Tracking"
     author: "A. Tyagi, J. Davis, and G. Potamianos"
-    publisher: "IEEE Workshop on Motion and Video Computing,"
+    publisher: "IEEE Workshop on Motion and Video Computing, "
     time: "January 2008."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/wmvc08b.pdf"
     tag: paper
@@ -314,7 +314,7 @@ publication:
   - 
     name: "Kernel-Based 3D Tracking"
     author: "A. Tyagi, M. Keck, J. Davis, and G. Potamianos"
-    publisher: "IEEE International Workshop on Visual Surveillance,"
+    publisher: "IEEE International Workshop on Visual Surveillance, "
     time: "June 2007."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/vs07b.pdf"
     tag: paper
@@ -325,7 +325,7 @@ publication:
   - 
     name: "Simultaneous Detection and Segmentation of Pedestrians using Top-down and Bottom-up Processing"
     author: "V. Sharma and J. Davis"
-    publisher: "IEEE International Workshop on Visual Surveillance,"
+    publisher: "IEEE International Workshop on Visual Surveillance, "
     time: "June 2007."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/vs07a.pdf"
     tag: paper
@@ -336,7 +336,7 @@ publication:
   - 
     name: "Background-Subtraction using Contour-based Fusion of Thermal and Visible Imagery"
     author: "J. Davis and V. Sharma"
-    publisher: "Computer Vision and Image Understanding,"
+    publisher: "Computer Vision and Image Understanding, "
     time: "Vol. 106, No. 2-3, 2007, pp. 162-182."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/cviu07.pdf"
     link2: "http://dx.doi.org/10.1016/j.cviu.2006.06.010"
@@ -347,7 +347,7 @@ publication:
   - 
     name: "An Adaptive Focus-of-Attention Model for Video Surveillance and Monitoring"
     author: "J. Davis, A. Morison, and D. Woods"
-    publisher: "Machine Vision and Applications,"
+    publisher: "Machine Vision and Applications, "
     time: "Vol. 18, No. 1, 2007, pp. 41-64."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/mva07.pdf"
     tag: paper
@@ -358,7 +358,7 @@ publication:
   - 
     name: "Building Adaptive Camera Models for Video Surveillance"
     author: "J. Davis, A. Morison, and D. Woods"
-    publisher: "IEEE Workshop on Application of Computer Vision,"
+    publisher: "IEEE Workshop on Application of Computer Vision, "
     time: "February 2007."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/wacv07a.pdf"
     tag: paper
@@ -369,7 +369,7 @@ publication:
   - 
     name: "Extraction of Person Silhouettes from Surveillance Imagery using MRFs"
     author: "V. Sharma, J. Davis, and A. Tyagi"
-    publisher: "IEEE Workshop on Application of Computer Vision,"
+    publisher: "IEEE Workshop on Application of Computer Vision, "
     time: "February 2007."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/wacv07b.pdf"
     tag: paper
@@ -380,7 +380,7 @@ publication:
   - 
     name: "Fusion of Multiple Camera Views for Kernel-Based 3D Tracking"
     author: "A. Tyagi, G. Potamianos, J. Davis, and S. Chu"
-    publisher: "IEEE Workshop on Motion and Video Computing,"
+    publisher: "IEEE Workshop on Motion and Video Computing, "
     time: "February 2007."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/wmvc07.pdf"
     tag: paper
@@ -391,7 +391,7 @@ publication:
   - 
     name: "Coverage Optimization to Support Security Monitoring"
     author: "A. Murray, K. Kim, J. Davis, R. Machiraju, R. Parent"
-    publisher: "Computers, Environment and Urban Systems,"
+    publisher: "Computers, Environment and Urban Systems, "
     time: "Vol. 31, 2007, pp. 133-147."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ceus07.pdf"
     tag: paper
@@ -402,7 +402,7 @@ publication:
   - 
     name: "Background-Subtraction in Thermal Imagery Using Contour Saliency"
     author: "J. Davis and V. Sharma"
-    publisher: "International Journal of Computer Vision,"
+    publisher: "International Journal of Computer Vision, "
     time: "Vol. 71, No. 2, 2007, pp. 161-181. (online version June 2006)"
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ijcv07.pdf"
     tag: paper
@@ -413,7 +413,7 @@ publication:
   - 
     name: "Tracking Mean Shift Clustered Point Clouds for 3D Surveillance"
     author: "M. Keck, J. Davis, and A. Tyagi"
-    publisher: "ACM Multimedia Workshop on Video Surveillance and Sensor Networks,"
+    publisher: "ACM Multimedia Workshop on Video Surveillance and Sensor Networks, "
     time: "October 2006, pp. 187-194."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/vssn06b.pdf"
     tag: paper
@@ -424,7 +424,7 @@ publication:
   - 
     name: "Multiview Fusion for Canonical View Generation based on Homography Constraints"
     author: "A. Tyagi, J. Davis, and M. Keck"
-    publisher: "ACM Mulimedia Workshop on Video Surveillance and Sensor Networks,"
+    publisher: "ACM Mulimedia Workshop on Video Surveillance and Sensor Networks, "
     time: "October 2006, pp. 61-69."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/vssn06a.pdf"
     tag: paper
@@ -435,7 +435,7 @@ publication:
   - 
     name: "Minimal-Latency Human Action Recognition using Reliable-Inference"
     author: "J. Davis and A. Tyagi"
-    publisher: "Image and Vision Computing,"
+    publisher: "Image and Vision Computing, "
     time: "Vol. 24, 2006, pp. 455-472."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ivc06.pdf"
     tag: paper
@@ -446,7 +446,7 @@ publication:
   - 
     name: "Human Activity Recognition for Synthesis"
     author: "Y. Chen, R. Parent, R. Machiraju, and J. Davis"
-    publisher: "IEEE Workshop on Learning, Representation, and Context for Human Sensing in Video,"
+    publisher: "IEEE Workshop on Learning, Representation, and Context for Human Sensing in Video, "
     time: "New York, NY, June 22, 2006."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/lrchsv06.pdf"
     tag: paper
@@ -457,7 +457,7 @@ publication:
   - 
     name: "Feature-level Fusion for Object Segmentation using Mutual Information"
     author: "V. Sharma and J. Davis"
-    publisher: "IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum,"
+    publisher: "IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, "
     time: "New York, NY, June 22, 2006."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/otcbvs06.pdf"
     tag: paper
@@ -468,7 +468,7 @@ publication:
   - 
     name: "Sampling Representative Examples for Dimensionality Reduction and Recognition - Bootstrap Bumping LDA"
     author: "H. Gao and J. Davis"
-    publisher: "European Conference on Computer Vision (ECCV), Graz, Austria,"
+    publisher: "European Conference on Computer Vision (ECCV), Graz, Austria, "
     time: "May 7-13, 2006, Part III, LNCS 3953, pp. 275-287."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/eccv06.pdf"
     tag: paper
@@ -479,7 +479,7 @@ publication:
   - 
     name: "Why Direct LDA Is Not Equivalent to LDA"
     author: "H. Gao and J. Davis"
-    publisher: "Pattern Recognition,"
+    publisher: "Pattern Recognition, "
     time: "Vol. 39, 2006, pp. 1002-1006."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/pr06.pdf"
     tag: paper
@@ -490,7 +490,7 @@ publication:
   - 
     name: "Event Template Hierarchies as Means for Human-Automation Collaboration in Security Surveillance"
     author: "D. Woods, S. McNee, J. Davis, A. Morison, P. Maughan, and K. Christoffersen"
-    publisher: "Human Factors and Ergonomics Society Annual Meeting,"
+    publisher: "Human Factors and Ergonomics Society Annual Meeting, "
     time: "Orlando, FL, September 26-28, 2005."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/eventTemplates05.pdf"
     tag: paper
@@ -501,7 +501,7 @@ publication:
   - 
     name: "Modeling Behavior Trends and Detecting Abnormal Events using Seasonal Kalman Filters"
     author: "J. Davis and M. Keck"
-    publisher: "Workshop on Human Activity Recognition and Modeling,"
+    publisher: "Workshop on Human Activity Recognition and Modeling, "
     time: "Oxford, UK, September 9, 2005."
     link: "http://web.cse.ohio-state.edu/~jwdavis/"
     tag: paper
@@ -512,7 +512,7 @@ publication:
   - 
     name: "Fusion-based Background-Subtraction using Contour Saliency"
     author: "J. Davis and V. Sharma"
-    publisher: "IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum,"
+    publisher: "IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, "
     time: "San Diego, CA, June 20, 2005."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/harem05.pdf"
     tag: paper
@@ -523,7 +523,7 @@ publication:
   - 
     name: "A Two-Stage Template Approach to Person Detection in Thermal Imagery"
     author: "J. Davis and M. Keck"
-    publisher: "Workshop on Applications of Computer Vision, Breckenridge,"
+    publisher: "Workshop on Applications of Computer Vision, Breckenridge, "
     time: "Colorado, January 5-7, 2005."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/wacv05.pdf"
     tag: paper
@@ -534,7 +534,7 @@ publication:
   - 
     name: "Differential Video Coding of Face and Gesture Events in Presentation Videos"
     author: "R. Tan and J. Davis"
-    publisher: "Computer Vision and Image Understanding,"
+    publisher: "Computer Vision and Image Understanding, "
     time: "Vol. 96, No. 2, 2004, pp. 200-215."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/cviu04.pdf"
     tag: paper
@@ -556,7 +556,7 @@ publication:
   - 
     name: "Sequential Reliable-Inference for Rapid Detection of Human Actions"
     author: "J. Davis"
-    publisher: "IEEE Workshop on Detection and Recognition of Events in Video,"
+    publisher: "IEEE Workshop on Detection and Recognition of Events in Video, "
     time: "Washington DC, July 2, 2004."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/event04.pdf"
     tag: paper
@@ -567,7 +567,7 @@ publication:
   - 
     name: "Robust Background-Subtraction for Person Detection in Thermal Imagery"
     author: "J. Davis and V. Sharma"
-    publisher: "IEEE International Workshop on Object Tracking and Classification Beyond the Visible Spectrum,"
+    publisher: "IEEE International Workshop on Object Tracking and Classification Beyond the Visible Spectrum, "
     time: "Washington DC, July 2, 2004."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/otcbvs04.pdf"
     tag: paper
@@ -578,7 +578,7 @@ publication:
   - 
     name: "Gender Recognition from Walking Movements using Adaptive Three-Mode PCA"
     author: "J. Davis and H. Gao"
-    publisher: "IEEE Workshop on Articulated and Nonrigid Motion,"
+    publisher: "IEEE Workshop on Articulated and Nonrigid Motion, "
     time: "Washington DC, June 27, 2004."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/anm04.pdf"
     tag: paper
@@ -589,7 +589,8 @@ publication:
   - 
     name: "An Expressive Three-Mode Principal Components Model for Gender Recognition"
     author: "J. Davis and H. Gao"
-    publisher: "Journal of Vision, Vol. 4, No. 5, 2004, pp. 362-377."
+    publisher: "Journal of Vision, Vol. 4, "
+    time: No. 5, 2004, pp. 362-377.
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/jov04.pdf"
     link2: "http://www.journalofvision.org/4/5/2/"
     tag: paper
@@ -599,7 +600,7 @@ publication:
   - 
     name: "An Expressive Three-Mode Principal Components Model of Human Action Style"
     author: "J. Davis and H. Gao"
-    publisher: "Image and Vision Computing,"
+    publisher: "Image and Vision Computing, "
     time: "Vol. 21, No. 11, 2003, pp. 1001-1016."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ivc03.pdf"
     tag: paper
@@ -610,7 +611,7 @@ publication:
   - 
     name: "Recognizing Human Action Efforts: An Adaptive Three-Mode PCA Framework"
     author: "J. Davis and H. Gao"
-    publisher: "International Conference on Computer Vision,"
+    publisher: "International Conference on Computer Vision, "
     time: "Nice, France, October 13-16, 2003, pp. 1463-1469."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/iccv03.pdf"
     tag: paper
@@ -632,7 +633,7 @@ publication:
   - 
     name: "A Three-Mode Expressive Feature Model of Action Effort"
     author: "J. Davis, H. Gao, and V. Kannappan"
-    publisher: "IEEE Workshop on Motion and Video Computing,"
+    publisher: "IEEE Workshop on Motion and Video Computing, "
     time: "Orlando, Florida, December 5-6, 2002, pp. 139-144."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/motion02.pdf"
     tag: paper
@@ -643,7 +644,7 @@ publication:
   - 
     name: "Motion Segmentation and Pose Recognition with Motion History Gradients"
     author: "G. Bradski and J. Davis"
-    publisher: "International Journal of Machine Vision and Applications,"
+    publisher: "International Journal of Machine Vision and Applications, "
     time: "Vol. 13, No. 3, 2002, pp. 174-184."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/mva02.pdf"
     tag: paper
@@ -655,7 +656,7 @@ publication:
     name: "Analysis and Recognition of Walking Movements"
     author: "J. Davis and S. Taylor"
     publisher: "International Conference on Pattern Recognition, Quebec City, Canada,"
-    time: "August 11-15, 2002, pp. 315-318."
+    time: "August 11-15, 2002, pp. 315-318. "
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/icpr02.pdf"
     tag: paper
     link2: ~
@@ -666,7 +667,7 @@ publication:
     name: "Expressive Features for Movement Exaggeration"
     author: "J. Davis and V. Kannappan"
     publisher: "SIGGRAPH Conference Abstracts and Applications (Technical Sketches),"
-    time: "San Antonio, Texas, July 24, 2002, pp. 182."
+    time: "San Antonio, Texas, July 24, 2002, pp. 182. "
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/sketch02.pdf"
     tag: paper
     link2: ~
@@ -677,7 +678,7 @@ publication:
     name: "The Representation and Recognition of Action Using Temporal Templates"
     author: "A. Bobick and J. Davis"
     publisher: "IEEE Transactions on Pattern Analysis and Machine Intelligence,"
-    time: "Vol. 23, No. 3, 2001, pp. 257-267."
+    time: "Vol. 23, No. 3, 2001, pp. 257-267. "
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/pami01.pdf"
     tag: paper
     link2: ~
@@ -698,7 +699,7 @@ publication:
   - 
     name: "Representing and Recognizing Human Motion: From Motion Templates to Movement Categories"
     author: "J. Davis"
-    publisher: "Digital Human Modeling Workshop, International Conference on Intelligent Robots and Systems,"
+    publisher: "Digital Human Modeling Workshop, International Conference on Intelligent Robots and Systems, "
     time: "Maui, Hawaii, October 29, 2001."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/iros.pdf"
     tag: paper
@@ -709,7 +710,7 @@ publication:
   - 
     name: "Hierarchical Motion History Images for Recognizing Human Motion"
     author: "J. Davis"
-    publisher: "IEEE Workshop on Detection and Recognition of Events in Video,"
+    publisher: "IEEE Workshop on Detection and Recognition of Events in Video, "
     time: "Vancouver, Canada, July 8, 2001, pp. 39-46."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/event01.pdf"
     tag: paper
@@ -731,7 +732,7 @@ publication:
   - 
     name: "Physically Interactive Story Environments"
     author: "C. Pinhanez, J. Davis, S. Intille, M. Johnson, A. Wilson, A. Bobick, and B. Blumberg"
-    publisher: "IBM Systems Journal,"
+    publisher: "IBM Systems Journal, "
     time: "Vol. 39, No. 3/4, 2000, pp. 438-455."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ibmpaper.pdf"
     tag: paper
@@ -742,7 +743,7 @@ publication:
   - 
     name: "Motion Segmentation and Pose Recognition with Motion History Gradients"
     author: "G. Bradski and J. Davis"
-    publisher: "IEEE Workshop on Applications of Computer Vision,"
+    publisher: "IEEE Workshop on Applications of Computer Vision, "
     time: "December 2000, pp. 174-184."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/wacv00.pdf"
     tag: paper
@@ -753,7 +754,7 @@ publication:
   - 
     name: "Categorical Representation and Recognition of Oscillatory Motion Patterns"
     author: "J. Davis, A. Bobick, W. Richards"
-    publisher: "IEEE Conference on Computer Vision and Pattern Recognition,"
+    publisher: "IEEE Conference on Computer Vision and Pattern Recognition, "
     time: "June 2000, pp. 628-635."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/cvpr2000.pdf"
     tag: paper
@@ -764,7 +765,7 @@ publication:
   - 
     name: "Relating Categories of Intentional Animal Motions"
     author: "J. Davis and W. Richards"
-    publisher: "OSU Dept. Computer and Information Science Technical Report OSU-CISRC-11/00-TR25,"
+    publisher: "OSU Dept. Computer and Information Science Technical Report OSU-CISRC-11/00-TR25, "
     time: "November 2000."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/OSU-TR25.pdf"
     tag: paper
@@ -775,7 +776,7 @@ publication:
   - 
     name: "The Kidsroom: A Perceptually-Based Interactive and Immersive Story Environment"
     author: "A. Bobick, S. Intille, J. Davis, F. Baird, C. Pinhanez, L. Campbell, Y. Ivanov, A. Schutte, and A. Wilson"
-    publisher: "Presence: Teleoperators and Virtual Environments,"
+    publisher: "Presence: Teleoperators and Virtual Environments, "
     time: "Vol. 8, No. 4, 1999, pp. 367-391."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/kidsroom.pdf"
     tag: paper
@@ -786,7 +787,7 @@ publication:
   - 
     name: "Toward 3-D Gesture Recognition"
     author: "J. Davis and M. Shah"
-    publisher: "International Journal of Pattern Recognition and Artificial Intelligence,"
+    publisher: "International Journal of Pattern Recognition and Artificial Intelligence, "
     time: "Volume 13 Number 3, May 1999, pp. 381-393."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ijprai.pdf"
     tag: paper
@@ -797,7 +798,7 @@ publication:
   - 
     name: "Real-time Motion Template Gradients using Intel CVLib"
     author: "J. Davis and G. Bradski"
-    publisher: "IEEE ICCV Workshop on Frame-rate Vision,"
+    publisher: "IEEE ICCV Workshop on Frame-rate Vision, "
     time: "September 1999."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/motiontemplategradient.pdf"
     tag: paper
@@ -808,7 +809,7 @@ publication:
   - 
     name: "Recognizing Movement using Motion Histograms"
     author: "J. Davis"
-    publisher: "MIT Technical Report #487,"
+    publisher: "MIT Technical Report #487, "
     time: "March 1999."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/TR-487.pdf"
     tag: paper
@@ -819,7 +820,7 @@ publication:
   - 
     name: "A Robust Human-Silhouette Extraction Technique for Interactive Virtual Environments"
     author: "J. Davis and A. Bobick"
-    publisher: "In Lecture Notes in Artificial Intelligence (Ed. by N. Magnenat-Thalmann & D. Thalmann),"
+    publisher: "In Lecture Notes in Artificial Intelligence (Ed. by N. Magnenat-Thalmann & D. Thalmann), "
     time: "1537, Heidelberg: Springer-Verlag, 1998, pp. 12-25."
     option: (IFIP Workshop on Modeling and Motion Capture Techniques for Virtual Environments, 1998.)
 
@@ -832,7 +833,7 @@ publication:
   - 
     name: "Virtual PAT: A Virtual Personal Aerobics Trainer"
     author: "J. Davis and A. Bobick"
-    publisher: "Workshop on Perceptual User Interfaces,"
+    publisher: "Workshop on Perceptual User Interfaces, "
     time: "November 1998, pp. 13-18."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/pui98.pdf"
     tag: paper
@@ -843,7 +844,7 @@ publication:
   - 
     name: "Perceptive Spaces for Performance and Entertainment"
     author: "C. Wren, F. Sparacino, A. Azarbayejani, T. Darrell, J. Davis, T. Starner, A. Kotani, C. Chao, M. Hlavac, K. Russell, A. Bobick, and A. Pentland"
-    publisher: "ATR Workshop on Virtual Communication Environments,"
+    publisher: "ATR Workshop on Virtual Communication Environments, "
     time: "April 1998."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/TR-372B.pdf"
     tag: paper
@@ -854,7 +855,7 @@ publication:
   - 
     name: "Design Decisions for Interactive Environments: Evaluating the KidsRoom Application Using a Deep Perceptual Interface"
     author: "A. Bobick, S. Intille, J. Davis, F. Baird, C. Pinhanez, L. Campbell, Y. Ivanov, A. Schutte, and A. Wilson"
-    publisher: "AAAI Spring Symposium on Intelligent Environments,"
+    publisher: "AAAI Spring Symposium on Intelligent Environments, "
     time: "March 1998, pp. 7-16."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/ie.pdf"
     tag: paper
@@ -865,7 +866,7 @@ publication:
   - 
     name: "The KidsRoom: An Example Application Using a Deep Perceptual Interface"
     author: "A. Bobick, J. Davis, S. Intille"
-    publisher: "Workshop on Perceptual User Interfaces,"
+    publisher: "Workshop on Perceptual User Interfaces, "
     time: "October 1997, pp. 1-4."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/pui97.pdf"
     tag: paper
@@ -876,7 +877,7 @@ publication:
   - 
     name: "The Representation and Recognition of Action Using Temporal Templates"
     author: "J. Davis and A. Bobick"
-    publisher: "IEEE Conference on Computer Vision and Pattern Recognition,"
+    publisher: "IEEE Conference on Computer Vision and Pattern Recognition, "
     time: "June 1997, pp. 928-934."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/TR-402.pdf"
     tag: paper
@@ -887,7 +888,7 @@ publication:
   - 
     name: "Real-Time Closed-World Tracking"
     author: "S. Intille, J. Davis, and A. Bobick"
-    publisher: "IEEE Conference on Computer Vision and Pattern Recognition,"
+    publisher: "IEEE Conference on Computer Vision and Pattern Recognition, "
     time: "June 1997, pp. 697-703."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/TR-403.pdf"
     tag: paper
@@ -909,7 +910,7 @@ publication:
   - 
     name: "Real-time Recognition of Activity Using Temporal Templates"
     author: "A. Bobick and J. Davis"
-    publisher: "IEEE Workshop on Applications of Computer Vision,"
+    publisher: "IEEE Workshop on Applications of Computer Vision, "
     time: "December 1996, pp. 39-42."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/TR-386.pdf"
     tag: paper
@@ -920,7 +921,7 @@ publication:
   - 
     name: "An Appearance-based Representation of Action"
     author: "A. Bobick and J. Davis"
-    publisher: "IEEE International Conference on Pattern Recognition,"
+    publisher: "IEEE International Conference on Pattern Recognition, "
     time: "August 1996, pp. 307-312."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/TR-369.pdf"
     tag: paper
@@ -931,7 +932,7 @@ publication:
   - 
     name: "Visual Gesture Recognition"
     author: "J. Davis and M. Shah"
-    publisher: "Vision, Image and Signal Processing,"
+    publisher: "Vision, Image and Signal Processing, "
     time: "Vol. 141, No. 2, 1994, pp. 101-106."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/visp.pdf"
     tag: paper
@@ -953,7 +954,7 @@ publication:
   - 
     name: "Determining 3-D Hand Motion"
     author: "J. Davis and M. Shah"
-    publisher: "IEEE Asilomar Conference on Signals, Systems, and Computers,"
+    publisher: "IEEE Asilomar Conference on Signals, Systems, and Computers, "
     time: "October 1994, pp. 1262-1266."
     link: "http://web.cse.ohio-state.edu/~jwdavis/Publications/asilomar.pdf"
     tag: paper
@@ -964,7 +965,7 @@ publication:
   - 
     name: "A Multi-Transformational Model for Background Subtraction with Moving Cameras"
     author: "D. Zamalieva, A. Yilmaz, and J. Davis"
-    publisher: "European Conference on Computer Vision,"
+    publisher: "European Conference on Computer Vision, "
     time: "September 2014."
     link: ~
     tag: ~
@@ -975,7 +976,7 @@ publication:
   - 
     name: "Exploiting Temporal Geometry for Moving Camera"
     author: "D. Zamalieva, A. Yilmaz, and J. Davis"
-    publisher: "International Conference on Pattern Recognition,"
+    publisher: "International Conference on Pattern Recognition, "
     time: "August 2014."
     link: ~
     tag: ~
