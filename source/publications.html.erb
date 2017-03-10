@@ -1,8 +1,10 @@
 <!-- AYTHORED BY: Raphael Huang 3/8 -->
 
+<!-- Loading the yaml file about the publication -->
 <div class="container">
   	<h1>Publications</h1>
 	<div class = "publication">
+		<!-- Display all the publications -->
     		<% data.publications.publication.each do |a|%>
 			<ul>
 			<li><em><%= a.name%></em></li>
@@ -12,21 +14,21 @@
 
 			<% if a.option != nil %>
 				<ul><%= a.option %></ul>
-			<% end %>
+			<% end %> <!-- end if condition checks the newline -->
 
 	 		<% if ! a.tag.nil? %>
  	    			<ul>[<a href=<%= a.link%>><%= a.tag%></a> ]</ul>
-			<% end %>
+			<% end %> <!-- end if condition that checks paper tag -->
 
 			<% if ! a.tag2.nil? %>
  	    			<ul>[<a href=<%= a.link2%>><%= a.tag2%></a> ]</ul>
-			<% end %>
+			<% end %> <!-- end the if condition that checks HTML tag -->
 
 			<% if a.award != nil %>
 				<ul>[<strong><%= a.award %></strong>]</ul>
-			<% end %>
+			<% end %> <!-- end the if condition that checks the award -->
 			<br>
-		<% end %>
+		<% end %> <!-- end looping through all yaml data -->
 	</div>
 
 </div>
