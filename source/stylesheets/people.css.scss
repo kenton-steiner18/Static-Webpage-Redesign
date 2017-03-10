@@ -1,4 +1,4 @@
-//Author: Jenn Alarcon
+/*Jennifer Alarcon, created: March 7th*/
 //Current Students & Alumni styling
 .people{
   h2{
@@ -8,6 +8,7 @@
     color: #666666;
   }
 
+  /*styling for printing current students*/
   .students{
       margin: auto;
       text-align: center;
@@ -27,11 +28,11 @@
     }
     li:hover {
       background: #eee;
-      cursor: crosshair;;
+      cursor: crosshair;
     }
-  }
+  } //end of student styling elements
 
-  /* ALUMNI */
+  /* ALUMNI styling elements */
   .alumni{
 
     margin: auto;
@@ -72,7 +73,6 @@
       padding:0px;
     }
 
-
     #name{
       text-align: center;
       font-size: 1.75em;
@@ -95,7 +95,7 @@
       text-align: center;
       font-weight: 300;
     }
-  }
+  } //end of alumni student styling elements
 
 
-}
+}//end of people styling elements
