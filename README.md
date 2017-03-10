@@ -11,13 +11,22 @@ First, you need to install the ruby gem by using "bundle install". Then, you nee
 * Documentation: Raphael Huang
 
 ### Contributions
+
 Please list who did what for each part of the project.
 Also list if people worked together (pair programmed) on a particular section.
 
-Tony Su: Write the picture.yml and pictures.html.erb.
-Raphael Huang:
-Sunny Patel:
-Jennifer Alarcon: People & Teaching YML files. People & teaching webpages. CSS styling for the pictures webpage. 
-Kenton Steiner:
+
+Tony Su: Wrote the Picture YML file and pictures webpages.
+
+Raphael Huang: Created the Publications YML file and the publications webpage.
+
+Sunny Patel: Initialized middleman, layout Wrote the Footer, created The Home and Media YML files. Programming the home and media webPage.
+
+Jennifer Alarcon: Created People & Teaching YML files. Created People & teaching webpages. Did the styling on the pictures webpage.
+
+Kenton Steiner: Programming the Header, navigation bar, Recent News YML file, and the recent news webpage. And testing the webpages.
+
 
 ### Testing Plan
+
+To test our webpage, you can compare it with the offical webpage of Professor [James Davis](http://web.cse.ohio-state.edu/~jwdavis/). For example, you can go the the picture link on the offical webpage and compare it with ours.

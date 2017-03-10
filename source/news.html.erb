@@ -3,15 +3,20 @@
 	<div class="rnews">
 		<h1>Recent News</h1>
 		<ul class="news">
-			<% data.news.recentnews.each do |a| %>
+			<% data.news.recentnews.list.each do |a| %>
 				<li>
 					<%= a.text%>
-					<% if !a.www.nil?%>
-						<a href=<%=a.www%>>Link</a>
-					<% end%>
 					<% if !a.pdf.nil?%>
-						<a href=<%=a.pdf%>>PDF</a>
+						<%= link_to "[<em><strong>PDF</strong></em>]",a.pdf %>
 					<% end%>
+				</li>
+			<% end %>
+		</ul>
+		<h1>Links</h1>
+		<ul class="news_links">
+			<% data.news.links.list.each do |a| %>
+				<li>
+					<%= link_to "<em><strong>#{a.text}</strong></em>:", a.www %>
 				</li>
 			<% end %>
 		</ul>

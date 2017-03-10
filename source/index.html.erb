@@ -11,7 +11,8 @@
 		<%= data.home.intro.employer %><br>
 		<%= data.home.intro.office %><br>
 		<% data.home.intro.phone_numbers.each do |item| %>
-		<em><%= item.title %>:</em> <%= item.num %> |
+			<em><%= item.title %>:</em> <%= item.num %> 
+			<% if !item.title.eql? "Fax" %> | <% end %>			
 		<% end %>
 		<br>
 		<a href=<%= data.home.intro.directions_link %>>Find me</a>
