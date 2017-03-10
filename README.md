@@ -19,7 +19,7 @@ Sunny Patel:
 
 Jennifer Alarcon: People & Teaching YML files. People & teaching webpages.
 
-Kenton Steiner:
+Kenton Steiner: Header, navigation bar, Recent News YML file, and the recent news webpage
 
 ### Testing Plan
 
