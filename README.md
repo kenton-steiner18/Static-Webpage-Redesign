@@ -11,15 +11,15 @@ First, you need to install the ruby gem by using "bundle install". Then, you nee
 * Documentation: Raphael Huang
 
 ### Contributions
-Tony Su: Write the picture.yml and pictures.html.erb.
+Tony Su: Wrote the Picture YML file and pictures webpages.
 
-Raphael Huang:
+Raphael Huang: Created the Publications YML file and the publications webpage.
 
-Sunny Patel:
+Sunny Patel: Initialized middleman, layout Wrote the Footer, created The Home and Media YML files. Programming the home and media webPage.
 
-Jennifer Alarcon: People & Teaching YML files. People & teaching webpages.
+Jennifer Alarcon: Created People & Teaching YML files. People & teaching webpages.
 
-Kenton Steiner: Header, navigation bar, Recent News YML file, and the recent news webpage
+Kenton Steiner: Programming the Header, navigation bar, Recent News YML file, and the recent news webpage. And testing the webpages.
 
 ### Testing Plan
 
