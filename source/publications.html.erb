@@ -17,11 +17,11 @@
 			<% end %> <!-- end if condition checks the newline -->
 
 	 		<% if ! a.tag.nil? %>
- 	    			<ul>[<a href=<%= a.link%>><%= a.tag%></a> ]</ul>
+ 	    			<ul>[<a href=<%= a.link%>><strong><%= a.tag%></strong></a> ]</ul>
 			<% end %> <!-- end if condition that checks paper tag -->
 
 			<% if ! a.tag2.nil? %>
- 	    			<ul>[<a href=<%= a.link2%>><%= a.tag2%></a> ]</ul>
+ 	    			<ul>[<a href=<%= a.link2%>><strong><%= a.tag2%></strong></a> ]</ul>
 			<% end %> <!-- end the if condition that checks HTML tag -->
 
 			<% if a.award != nil %>
