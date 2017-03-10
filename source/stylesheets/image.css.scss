@@ -16,7 +16,8 @@
   //at 0 until hovered over
   opacity: 0;
   //hovering display same as image size-width
-  width: 600px;
+  height: auto;
+  margin: 0 auto;
   transition: .5s ease;
   background-color: #eee;
 }
@@ -32,15 +33,14 @@
 .picture-container:hover .overlay {
   opacity: .9;
   cursor: crosshair;
-  text-align: center;
+
 }
 
 //The picture information styling
 .pic-text {
   font-weight: 300;
-  font-size: 150%;
-  padding-top: 100px;
-  text-align: center;
+  font-size: 130%;
+  padding-top: 90px;
   width: 600px;
 
 }

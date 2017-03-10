@@ -1,7 +1,7 @@
 <!-- AUTHORED BY: Tony Su 3/8 -->
 <!-- Modified BY: Jenn Alarcon Su 3/9 -->
 
-
+<center>
 <div class = "display-pictures">
 	<!--go through all images-->
 <% data.picture.picture.each do |a|%>
@@ -10,9 +10,10 @@
 	<img class = "image" src= <%=a.img%> > </img>
 	<!--when hovering over display picture information-->
 	<div class="overlay">
-		<div class="pic-text" text-align: centr><%=a.title%></div>
+		<div class="pic-text"><%=a.title%></div>
 	</div> <!--overlay-->
 </div><!--picture-container-->
 </br>
 <% end %>
 </div> <!--display-pictures-->
+</center>
